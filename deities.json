@@ -1,0 +1,356 @@
+{
+  "deities": [
+    {
+      "id": "shiva",
+      "name": "Shiva",
+      "sanskrit": "शिव",
+      "title": "The Destroyer",
+      "description": "Hindu god Shiva is the most popular of all the Hindu deities. Shiva the Destroyer is the lord who is responsible for maintaining the cycle of existence; beginning and conclusion. He is part of the Trimurti along with Brahma and Vishnu.",
+      "attributes": {
+        "weapons": ["Trishula (Trident)", "Pashupatastra", "Pinaka (Bow)"],
+        "vehicle": "Nandi (Bull)",
+        "symbols": ["Third Eye", "Crescent Moon", "Sacred Ganges", "Damaru (Drum)"],
+        "consort": "Parvati"
+      },
+      "stories": [
+        {
+          "title": "Drinking of Poison",
+          "content": "During the churning of the cosmic ocean (Samudra Manthan), a deadly poison called Halahala emerged. To save the universe, Shiva drank the poison, but Parvati held his throat, preventing it from going further. This turned his throat blue, earning him the name Neelakantha (the blue-throated one)."
+        },
+        {
+          "title": "Marriage to Parvati",
+          "content": "After his first wife Sati's death, Shiva went into deep meditation. Sati reincarnated as Parvati and performed intense penance to win Shiva's love. Eventually, they married and had sons Kartikeya and Ganesha."
+        }
+      ],
+      "cosmicRole": "Shiva represents the aspect of the Supreme Being that continuously dissolves to recreate in the cyclic process of creation, preservation, dissolution, and recreation of the universe.",
+      "festivals": ["Maha Shivaratri", "Shravan Month Mondays"],
+      "mantras": ["Om Namah Shivaya", "Mahamrityunjaya Mantra"],
+      "animationStyle": {
+        "primary": "cosmic-dance",
+        "elements": ["flowing-ganges", "third-eye-glow", "trident-shimmer"],
+        "background": "mountain-meditation",
+        "colorScheme": ["deep-blue", "silver", "sacred-ash"]
+      }
+    },
+    {
+      "id": "ganesha",
+      "name": "Ganesha",
+      "sanskrit": "गणेश",
+      "title": "Remover of Obstacles",
+      "description": "Hindu god Ganesh is the god of wisdom and success. Known as 'The Remover of Obstacles,' he is invoked before starting a venture to ease the path from difficulties. He is the son of Shiva and Parvati, recognized by his elephant head.",
+      "attributes": {
+        "weapons": ["Ankusha (Goad)", "Pasha (Noose)"],
+        "vehicle": "Mushika (Mouse)",
+        "symbols": ["Elephant Head", "Broken Tusk", "Large Belly", "Modaka (Sweet)"],
+        "consort": "Buddhi (Intellect), Siddhi (Spiritual power), Riddhi (Prosperity)"
+      },
+      "stories": [
+        {
+          "title": "Birth of Ganesha",
+          "content": "Parvati created Ganesha from turmeric paste to guard her while bathing. When Shiva returned and was stopped by Ganesha, a battle ensued where Shiva beheaded him. To console Parvati, Shiva replaced his head with that of the first creature he found - an elephant."
+        },
+        {
+          "title": "The Broken Tusk",
+          "content": "When sage Vyasa needed someone to write down the Mahabharata as he dictated it, Ganesha agreed but with the condition that Vyasa must recite without pause. During the dictation, Ganesha's pen broke, so he broke off one of his tusks to continue writing without interruption."
+        }
+      ],
+      "cosmicRole": "Ganesha is revered as the remover of obstacles, patron of arts and sciences, and the deity of intellect and wisdom. He is honored at the beginning of rituals and ceremonies.",
+      "festivals": ["Ganesh Chaturthi", "Ganesh Jayanti"],
+      "mantras": ["Om Gam Ganapataye Namaha", "Vakratunda Mahakaya"],
+      "animationStyle": {
+        "primary": "elephant-trunk-movement",
+        "elements": ["modak-glow", "mouse-companion", "broken-tusk-highlight"],
+        "background": "prosperity-symbols",
+        "colorScheme": ["red", "yellow", "orange"]
+      }
+    },
+    {
+      "id": "vishnu",
+      "name": "Vishnu",
+      "sanskrit": "विष्णु",
+      "title": "The Preserver",
+      "description": "Hindu god Vishnu is one of the principal deities of Hinduism and part of the Trimurti. Lord Vishnu is responsible for upholding the moral order, or dharma of the universe. He is known for his ten major incarnations (avatars) that appear on Earth to restore cosmic order.",
+      "attributes": {
+        "weapons": ["Sudarshana Chakra (Discus)", "Kaumodaki (Mace)", "Padma (Lotus)", "Panchajanya (Conch)"],
+        "vehicle": "Garuda (Eagle)",
+        "symbols": ["Lotus", "Chakra", "Conch", "Four Arms"],
+        "consort": "Lakshmi"
+      },
+      "stories": [
+        {
+          "title": "Matsya Avatar",
+          "content": "In his first avatar as a fish, Vishnu warned Manu (the first man) about a great flood and instructed him to build a boat to save all living beings and the Vedas."
+        },
+        {
+          "title": "Vamana and Bali",
+          "content": "As Vamana, a dwarf brahmin, Vishnu approached King Bali who had promised to give anything asked. Vamana requested three steps of land. When granted, he grew cosmic in size, covering earth and heaven in two steps. For the third step, Bali offered his head, earning Vishnu's blessing."
+        }
+      ],
+      "cosmicRole": "Vishnu maintains the cosmic order and balance of the universe. When dharma declines, he incarnates on Earth in various forms to restore righteousness and protect the good.",
+      "festivals": ["Rama Navami", "Janmashtami", "Diwali", "Onam"],
+      "mantras": ["Om Namo Bhagavate Vasudevaya", "Vishnu Sahasranamam"],
+      "animationStyle": {
+        "primary": "chakra-rotation",
+        "elements": ["lotus-bloom", "ocean-waves", "garuda-flight"],
+        "background": "cosmic-preservation",
+        "colorScheme": ["blue", "gold", "yellow"]
+      }
+    },
+    {
+      "id": "lakshmi",
+      "name": "Lakshmi",
+      "sanskrit": "लक्ष्मी",
+      "title": "Goddess of Wealth",
+      "description": "Hindu goddess Lakshmi, also called Laxmi, is the goddess of wealth, fortune, power, luxury, beauty, fertility, and auspiciousness. She is the consort of Vishnu and brings good fortune and prosperity to her devotees.",
+      "attributes": {
+        "weapons": ["None"],
+        "vehicle": "Owl",
+        "symbols": ["Lotus", "Gold Coins", "Elephants", "Four Arms"],
+        "consort": "Vishnu"
+      },
+      "stories": [
+        {
+          "title": "Birth from the Ocean",
+          "content": "Lakshmi emerged during the churning of the cosmic ocean (Samudra Manthan) seated on a full-blown lotus, radiating beauty and grace. She chose Vishnu as her eternal consort."
+        },
+        {
+          "title": "Lakshmi and King Bali",
+          "content": "When Vishnu, as Vamana, sent King Bali to the netherworld, Lakshmi was impressed by Bali's generosity and blessed his kingdom with prosperity, which is celebrated during the festival of Onam."
+        }
+      ],
+      "cosmicRole": "Lakshmi embodies prosperity and abundance in all forms. She represents not just material wealth but also spiritual abundance, purity, and generosity.",
+      "festivals": ["Diwali", "Sharad Purnima", "Varalakshmi Vratam"],
+      "mantras": ["Om Shreem Mahalakshmiyei Namaha", "Lakshmi Ashtakam"],
+      "animationStyle": {
+        "primary": "falling-gold-coins",
+        "elements": ["lotus-throne", "elephant-blessing", "prosperity-aura"],
+        "background": "wealth-symbols",
+        "colorScheme": ["gold", "red", "pink"]
+      }
+    },
+    {
+      "id": "saraswati",
+      "name": "Saraswati",
+      "sanskrit": "सरस्वती",
+      "title": "Goddess of Wisdom",
+      "description": "Saraswati, goddess of knowledge and the arts, embodies the wisdom of Devi. She is the river of consciousness that enlivens creation. As Brahma's consort, she represents learning, music, arts, and science.",
+      "attributes": {
+        "weapons": ["None"],
+        "vehicle": "Swan or Peacock",
+        "symbols": ["Veena (String instrument)", "Books", "Crystal Mala", "White Lotus"],
+        "consort": "Brahma"
+      },
+      "stories": [
+        {
+          "title": "Creation of Sanskrit",
+          "content": "Saraswati created the Sanskrit language and presented it to Brahma, who then used it to create the four Vedas and all sacred texts."
+        },
+        {
+          "title": "Saraswati and the Demon Sushkala",
+          "content": "When the demon Sushkala stole the Vedas, Saraswati took the form of a river to help Brahma and the gods recover the sacred texts, demonstrating her role as the protector of knowledge."
+        }
+      ],
+      "cosmicRole": "Saraswati presides over knowledge, learning, arts, and culture. She represents the free flow of wisdom and consciousness and is invoked for success in education and artistic endeavors.",
+      "festivals": ["Vasant Panchami", "Saraswati Puja"],
+      "mantras": ["Om Aim Saraswatyai Namaha", "Saraswati Vandana"],
+      "animationStyle": {
+        "primary": "flowing-river",
+        "elements": ["veena-strings", "knowledge-aura", "swan-companion"],
+        "background": "sacred-texts",
+        "colorScheme": ["white", "light-blue", "gold"]
+      }
+    },
+    {
+      "id": "durga",
+      "name": "Durga",
+      "sanskrit": "दुर्गा",
+      "title": "The Unconquerable",
+      "description": "The Hindu Goddess Durga is the most splendid manifestation of Devi. Goddess Durga contains within her the power of all the Hindu gods combined. She is the fierce warrior form of the Mother Goddess, created to combat demons and evil forces.",
+      "attributes": {
+        "weapons": ["Trishula (Trident)", "Chakra (Discus)", "Sword", "Bow and Arrow", "Various weapons in her ten hands"],
+        "vehicle": "Lion or Tiger",
+        "symbols": ["Ten Arms", "Various Weapons", "Lion Mount"],
+        "consort": "Shiva (as Parvati)"
+      },
+      "stories": [
+        {
+          "title": "Slaying of Mahishasura",
+          "content": "When the buffalo demon Mahishasura, who could not be defeated by any god or man, terrorized the universe, the gods combined their powers to create Durga. With her ten arms bearing the weapons of all gods, she battled and ultimately slew the demon."
+        },
+        {
+          "title": "Nine-Day Battle",
+          "content": "Durga fought a nine-day battle against the demons Shumbha and Nishumbha and their armies. Each day she manifested a different form (Navadurga) to defeat different demons, culminating in her victory on the tenth day."
+        }
+      ],
+      "cosmicRole": "Durga represents the divine protective power against evil and negative forces. She embodies shakti (feminine energy) in its most potent form and stands for the triumph of good over evil.",
+      "festivals": ["Durga Puja", "Navaratri"],
+      "mantras": ["Om Dum Durgayei Namaha", "Durga Saptashati"],
+      "animationStyle": {
+        "primary": "fierce-battle",
+        "elements": ["lion-roar", "weapons-glow", "victory-aura"],
+        "background": "mountain-battlefield",
+        "colorScheme": ["red", "gold", "orange"]
+      }
+    },
+    {
+      "id": "krishna",
+      "name": "Krishna",
+      "sanskrit": "कृष्ण",
+      "title": "Divine Cow Herder",
+      "description": "Hindu god Krishna is widely revered as one of the most popular of all Indian divinities. Lord Krishna is worshipped as the eighth incarnation of the Hindu god Vishnu. He is known for his playful nature, divine wisdom, and loving relationship with his devotees.",
+      "attributes": {
+        "weapons": ["Sudarshana Chakra (Discus)", "Flute"],
+        "vehicle": "Garuda (shared with Vishnu)",
+        "symbols": ["Flute", "Peacock Feather", "Blue Skin", "Butter (as child)"],
+        "consort": "Radha (primary), Rukmini, and others"
+      },
+      "stories": [
+        {
+          "title": "Butter Thief",
+          "content": "As a child, Krishna was known for stealing butter from the homes of gopis (milkmaids). When confronted, his innocent mischief and divine charm would melt everyone's hearts."
+        },
+        {
+          "title": "Bhagavad Gita",
+          "content": "Before the great Kurukshetra war, Krishna served as Arjuna's charioteer and delivered the profound spiritual discourse known as the Bhagavad Gita, revealing divine wisdom about duty, righteousness, and spiritual paths."
+        }
+      ],
+      "cosmicRole": "Krishna represents divine love, compassion, and the personal aspect of God that forms intimate relationships with devotees. He teaches the path of devotion (bhakti) and righteous action (dharma).",
+      "festivals": ["Janmashtami", "Holi", "Ratha Yatra"],
+      "mantras": ["Hare Krishna Maha Mantra", "Om Namo Bhagavate Vasudevaya"],
+      "animationStyle": {
+        "primary": "flute-playing",
+        "elements": ["peacock-feather", "divine-dance", "cow-herding"],
+        "background": "vrindavan-garden",
+        "colorScheme": ["blue", "yellow", "green"]
+      }
+    },
+    {
+      "id": "hanuman",
+      "name": "Hanuman",
+      "sanskrit": "हनुमान",
+      "title": "Monkey God",
+      "description": "The Hindu God Hanuman is the monkey deity renowned for his courage, power, and faithful selfless service. He is the divine companion of the god Rama and symbolizes strength, devotion, and selfless service.",
+      "attributes": {
+        "weapons": ["Gada (Mace)"],
+        "vehicle": "None (can fly on his own)",
+        "symbols": ["Monkey Form", "Mountain", "Mace"],
+        "consort": "None (Brahmachari/Celibate)"
+      },
+      "stories": [
+        {
+          "title": "Leap to Lanka",
+          "content": "When searching for Sita, Hanuman took a mighty leap across the ocean to Lanka. He found Sita in Ashoka Vatika, delivered Rama's ring to her, and set Lanka ablaze with his burning tail before returning."
+        },
+        {
+          "title": "Mountain of Medicine",
+          "content": "When Lakshmana was severely wounded in battle, Hanuman was sent to fetch a specific medicinal herb from the Himalayas. Unable to identify the herb, he lifted the entire mountain and brought it back, saving Lakshmana's life."
+        }
+      ],
+      "cosmicRole": "Hanuman represents the perfect devotee and the ideal of selfless service (seva). He embodies strength, intelligence, and unwavering devotion to God.",
+      "festivals": ["Hanuman Jayanti", "Tuesdays are dedicated to him"],
+      "mantras": ["Om Hanumate Namaha", "Hanuman Chalisa"],
+      "animationStyle": {
+        "primary": "flying-leap",
+        "elements": ["mountain-lifting", "devotion-glow", "tail-flame"],
+        "background": "forest-setting",
+        "colorScheme": ["orange", "red", "gold"]
+      }
+    },
+    {
+      "id": "kali",
+      "name": "Kali",
+      "sanskrit": "काली",
+      "title": "Goddess of Time",
+      "description": "To aid her son in his endeavor to rid the three worlds of the multiplying demon, Raktabija, Parvati entered the cosmic battlefield as the dreaded goddess Kali - dark as death. She represents time, change, and the fierce aspect of the Divine Mother.",
+      "attributes": {
+        "weapons": ["Sword", "Severed Head", "Bowl (for blood)"],
+        "vehicle": "Corpse (Shiva)",
+        "symbols": ["Garland of Skulls", "Skirt of Severed Arms", "Protruding Tongue", "Dark Skin"],
+        "consort": "Shiva"
+      },
+      "stories": [
+        {
+          "title": "Defeat of Raktabija",
+          "content": "When the demon Raktabija fought the goddess Durga, each drop of his blood that fell to the ground created a new demon. Kali emerged from Durga's forehead, spread her tongue across the battlefield, and consumed every drop of blood before it could touch the ground, defeating the demon."
+        },
+        {
+          "title": "Dance on Shiva",
+          "content": "After defeating the demons, Kali became intoxicated with bloodlust and began a destructive dance that threatened the universe. To stop her, Shiva lay down in her path. When she stepped on him, she recognized her consort and stuck out her tongue in shame, ending her rampage."
+        }
+      ],
+      "cosmicRole": "Kali represents the ultimate reality of time, change, and destruction. She destroys evil, ignorance, and ego, clearing the path for new creation and spiritual awakening.",
+      "festivals": ["Kali Puja", "Amavasya (New Moon)"],
+      "mantras": ["Om Krim Kalikaye Namaha", "Kali Kavacham"],
+      "animationStyle": {
+        "primary": "fierce-dance",
+        "elements": ["tongue-protrusion", "skull-garland-movement", "time-dissolution"],
+        "background": "cremation-ground",
+        "colorScheme": ["black", "red", "dark-blue"]
+      }
+    },
+    {
+      "id": "brahma",
+      "name": "Brahma",
+      "sanskrit": "ब्रह्मा",
+      "title": "God of Creation",
+      "description": "Brahma is the Hindu god of creation and one of the Trimurti. The others two Hindu Gods in the Trimurti are Vishnu and Shiva. Brahma's consort is Saraswati. He is depicted with four faces and four arms, representing the four Vedas and four directions.",
+      "attributes": {
+        "weapons": ["None"],
+        "vehicle": "Swan or Goose (Hamsa)",
+        "symbols": ["Four Faces", "Four Arms", "Prayer Beads", "Water Pot", "Book (Vedas)"],
+        "consort": "Saraswati"
+      },
+      "stories": [
+        {
+          "title": "Birth from Lotus",
+          "content": "Brahma emerged from a lotus that grew from Vishnu's navel while he was in cosmic sleep. Upon creation, Brahma was given the task of creating the universe and all beings within it."
+        },
+        {
+          "title": "The Fifth Head",
+          "content": "Originally, Brahma had five heads. When he became infatuated with Shatarupa (a female he had created), he grew a fifth head to constantly gaze at her. Shiva, disgusted by this behavior, cut off the fifth head, teaching Brahma about restraint and respect."
+        }
+      ],
+      "cosmicRole": "Brahma is responsible for the creation of the universe and all living beings. He represents the creative principle and the beginning of all existence.",
+      "festivals": ["Kartik Purnima", "Brahmotsavam (rare)"],
+      "mantras": ["Om Brahma Devaya Namaha", "Brahma Gayatri"],
+      "animationStyle": {
+        "primary": "creation-energy",
+        "elements": ["four-faces-rotation", "lotus-emergence", "swan-flight"],
+        "background": "cosmic-creation",
+        "colorScheme": ["red", "gold", "white"]
+      }
+    },
+    {
+      "id": "parvati",
+      "name": "Parvati",
+      "sanskrit": "पार्वती",
+      "title": "Benign Aspect of Devi",
+      "description": "Hindu goddess Parvati is the benevolent aspect of the female form of mother Devi. Devi Parvati is known as 'daughter of the mountain'. She represents divine love, devotion, fertility, and power.",
+      "attributes": {
+        "weapons": ["Trishula (when as Durga)"],
+        "vehicle": "Lion or Tiger (when as Durga), otherwise none",
+        "symbols": ["Lotus", "Mirror", "Veena (occasionally)"],
+        "consort": "Shiva"
+      },
+      "stories": [
+        {
+          "title": "Penance for Shiva",
+          "content": "After her previous incarnation Sati died, she was reborn as Parvati. To win Shiva's love, who was deep in meditation, she performed severe penance in the mountains, enduring extreme weather and surviving on leaves. Her devotion eventually awakened Shiva from his meditation."
+        },
+        {
+          "title": "Creation of Ganesha",
+          "content": "While Shiva was away, Parvati created a boy from turmeric paste to guard her bath. When Shiva returned and was denied entry by the boy, he beheaded him. To console the grieving Parvati, Shiva replaced the boy's head with that of an elephant, creating Ganesha."
+        }
+      ],
+      "cosmicRole": "Parvati represents divine feminine energy in its nurturing form. She embodies devotion, fertility, and the power of love to transform even the most ascetic hearts.",
+      "festivals": ["Teej", "Gauri Puja", "Navaratri"],
+      "mantras": ["Om Parvati Pataye Namaha", "Parvati Stotram"],
+      "animationStyle": {
+        "primary": "gentle-mountain",
+        "elements": ["flower-petals", "devotion-aura", "maternal-glow"],
+        "background": "himalayan-peaks",
+        "colorScheme": ["green", "yellow", "gold"]
+      }
+    }
+  ]
+}

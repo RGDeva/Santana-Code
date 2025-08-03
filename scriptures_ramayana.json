@@ -1,0 +1,170 @@
+{
+  "category": "Ramayana",
+  "description": "The Ramayana is one of the two great epic poems of India, the other being the Mahabharata. It tells the story of Rama, an avatar of the Hindu god Vishnu, and his journey to rescue his wife Sita from the demon king Ravana.",
+  "scriptures": [
+    {
+      "id": "ramayana",
+      "name": {
+        "english": "Ramayana",
+        "sanskrit": "रामायणम्",
+        "transliteration": "Rāmāyaṇam"
+      },
+      "description": "The Ramayana is one of the two great Sanskrit epics of ancient India, the other being the Mahabharata. It tells the story of Rama, an avatar of the Hindu god Vishnu, whose wife Sita is abducted by the demon king Ravana. The epic follows Rama's quest to rescue his beloved wife, with the help of his loyal brother Lakshmana and the monkey god Hanuman.",
+      "historical_context": "The Ramayana was composed in Sanskrit, probably not before 300 BCE, by the poet Valmiki according to widely accepted Hindu tradition. It is one of the most important literary works of ancient India and has had profound influence on Indian culture, art, and religion.",
+      "summary": "The Ramayana tells the story of Rama, the eldest son of King Dasharatha of Ayodhya. Due to palace intrigue, Rama is exiled to the forest for fourteen years, accompanied by his wife Sita and brother Lakshmana. While in exile, Sita is kidnapped by Ravana, the ten-headed demon king of Lanka. Rama, with the help of the monkey god Hanuman and an army of monkeys and bears, wages war against Ravana to rescue Sita. After defeating Ravana, Rama returns to Ayodhya and is crowned king. The epic explores themes of duty, loyalty, righteousness, and the ideal relationships between husband and wife, father and son, brothers, and master and servant.",
+      "structure": {
+        "parts": ["Seven Kandas (Books)"],
+        "chapters": "500 chapters (sargas)",
+        "verses": "Approximately 24,000 verses"
+      },
+      "key_concepts": [
+        {
+          "name": "Dharma",
+          "description": "The concept of righteous duty, moral law, and proper conduct that each individual must follow according to their position in society and stage of life."
+        },
+        {
+          "name": "Bhakti",
+          "description": "Devotion to the divine, exemplified by the characters' devotion to Rama and Rama's devotion to righteousness."
+        },
+        {
+          "name": "Ideal Relationships",
+          "description": "The epic portrays ideal relationships between family members, particularly between brothers, husband and wife, and father and son."
+        },
+        {
+          "name": "Good vs. Evil",
+          "description": "The eternal struggle between righteousness (dharma) and unrighteousness (adharma), personified by Rama and Ravana respectively."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Ramayana, Yuddha Kanda 115.19",
+          "sanskrit": "रामो विग्रहवान् धर्मः साधुः सत्यपराक्रमः । राजा सर्वस्य लोकस्य देवानामिव वासवः ॥",
+          "transliteration": "Rāmo vigrahamān dharmaḥ sādhuḥ satyaparākramaḥ, rājā sarvasya lokasya devānāmiva vāsavaḥ.",
+          "translation": "Rama is the embodiment of dharma, virtuous, with true valor. He is the king of the entire world, like Indra is to the gods.",
+          "explanation": "This verse encapsulates the ideal of Rama as the perfect man and ruler, embodying righteousness (dharma) and serving as a model for all to follow."
+        }
+      ],
+      "related_deities": ["rama", "vishnu", "hanuman"],
+      "major_characters": [
+        {
+          "name": "Rama",
+          "description": "The protagonist, an avatar of Vishnu and the ideal man who embodies dharma (righteousness). He is the eldest son of King Dasharatha of Ayodhya and is known for his unwavering adherence to duty and moral principles."
+        },
+        {
+          "name": "Sita",
+          "description": "Rama's wife and an avatar of the goddess Lakshmi. She is the embodiment of wifely devotion and purity, who chooses to accompany Rama during his exile and remains faithful despite being abducted by Ravana."
+        },
+        {
+          "name": "Lakshmana",
+          "description": "Rama's loyal younger brother who accompanies him and Sita into exile. He represents the ideal of brotherly devotion and selfless service."
+        },
+        {
+          "name": "Ravana",
+          "description": "The antagonist, a ten-headed demon king of Lanka who abducts Sita. Despite his evil actions, he is portrayed as a learned scholar and a devotee of Shiva with many admirable qualities."
+        },
+        {
+          "name": "Hanuman",
+          "description": "A monkey god and devoted servant of Rama. He is known for his strength, intelligence, and unwavering devotion, and plays a crucial role in finding Sita and helping Rama defeat Ravana."
+        },
+        {
+          "name": "Dasharatha",
+          "description": "The king of Ayodhya and father of Rama. His promise to his youngest wife Kaikeyi leads to Rama's exile."
+        },
+        {
+          "name": "Bharata",
+          "description": "Rama's younger half-brother who refuses to take the throne when Rama is exiled and instead places Rama's sandals on the throne as a symbol of Rama's rightful place."
+        },
+        {
+          "name": "Kaikeyi",
+          "description": "Dasharatha's youngest wife who, influenced by her maid Manthara, asks for Rama's exile and for her son Bharata to be crowned king."
+        },
+        {
+          "name": "Sugriva",
+          "description": "The king of the monkey kingdom who helps Rama find Sita after Rama helps him regain his kingdom from his brother Vali."
+        },
+        {
+          "name": "Jatayu",
+          "description": "A vulture who tries to rescue Sita from Ravana and is mortally wounded in the attempt. He lives long enough to inform Rama about Sita's abduction."
+        }
+      ],
+      "major_events": [
+        {
+          "title": "Rama's Exile",
+          "summary": "Due to a promise made to his wife Kaikeyi, King Dasharatha is forced to exile his eldest son Rama to the forest for fourteen years and crown his son Bharata instead. Rama accepts his fate without complaint, demonstrating his commitment to dharma."
+        },
+        {
+          "title": "Abduction of Sita",
+          "summary": "While in exile, Sita is abducted by the demon king Ravana, who takes her to his kingdom in Lanka. This sets in motion Rama's quest to rescue his beloved wife."
+        },
+        {
+          "title": "Hanuman's Journey to Lanka",
+          "summary": "Hanuman, the monkey god, leaps across the ocean to Lanka to find Sita. He locates her in Ravana's garden, delivers Rama's ring as a token, and then causes havoc in Lanka before returning to Rama."
+        },
+        {
+          "title": "Building of the Bridge",
+          "summary": "Rama and his army of monkeys and bears build a bridge across the ocean to Lanka, known as Rama's Bridge or Adam's Bridge, to cross over and wage war against Ravana."
+        },
+        {
+          "title": "Defeat of Ravana",
+          "summary": "After a fierce battle, Rama kills Ravana, rescues Sita, and installs Ravana's virtuous brother Vibhishana as the new king of Lanka."
+        },
+        {
+          "title": "Agni Pariksha (Fire Ordeal)",
+          "summary": "To prove her purity after being held captive by Ravana, Sita undergoes a fire ordeal. She emerges unscathed, confirming her chastity and devotion to Rama."
+        },
+        {
+          "title": "Return to Ayodhya",
+          "summary": "Rama, Sita, and Lakshmana return to Ayodhya after completing the fourteen years of exile. Rama is crowned king, beginning his righteous rule known as Rama Rajya."
+        }
+      ],
+      "kandas": [
+        {
+          "name": "Bala Kanda",
+          "description": "The Book of Youth, which tells of Rama's birth, childhood, and marriage to Sita."
+        },
+        {
+          "name": "Ayodhya Kanda",
+          "description": "The Book of Ayodhya, which describes the events leading to Rama's exile and his departure from Ayodhya."
+        },
+        {
+          "name": "Aranya Kanda",
+          "description": "The Book of the Forest, which narrates Rama, Sita, and Lakshmana's life in the forest and Sita's abduction by Ravana."
+        },
+        {
+          "name": "Kishkindha Kanda",
+          "description": "The Book of Kishkindha, which describes Rama's meeting with Hanuman and the monkey king Sugriva, and their alliance to find Sita."
+        },
+        {
+          "name": "Sundara Kanda",
+          "description": "The Book of Beauty, which narrates Hanuman's journey to Lanka, his finding of Sita, and his exploits in the demon city."
+        },
+        {
+          "name": "Yuddha Kanda",
+          "description": "The Book of War, which describes the battle between Rama's and Ravana's armies, Ravana's defeat, and Rama's reunion with Sita."
+        },
+        {
+          "name": "Uttara Kanda",
+          "description": "The Book of the Aftermath, which tells of Rama's reign, the banishment of Sita, and the birth of their twin sons Lava and Kusha."
+        }
+      ],
+      "cultural_significance": [
+        {
+          "aspect": "Religious Significance",
+          "description": "The Ramayana is considered a sacred text in Hinduism, portraying Rama as an avatar of Vishnu who came to earth to defeat evil and establish dharma."
+        },
+        {
+          "aspect": "Cultural Impact",
+          "description": "The epic has deeply influenced Indian culture, art, literature, and moral values. It is performed as the Ramlila during Dussehra festival and has inspired countless works of art, literature, and performance across South and Southeast Asia."
+        },
+        {
+          "aspect": "Moral Teachings",
+          "description": "The Ramayana serves as a guide for proper conduct and relationships, illustrating the ideals of dharma, loyalty, brotherhood, and the perfect king, husband, son, and brother through its characters."
+        },
+        {
+          "aspect": "Regional Variations",
+          "description": "Many versions of the Ramayana exist across different regions and cultures of South and Southeast Asia, each with its own unique interpretations and emphases, reflecting the diversity of Hindu traditions."
+        }
+      ]
+    }
+  ]
+}

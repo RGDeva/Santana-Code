@@ -1,0 +1,335 @@
+{
+  "scriptures": [
+    {
+      "category": "Shruti",
+      "description": "Shruti texts are considered the most authoritative and ancient religious texts in Hinduism, believed to be eternal knowledge transmitted by sages (rishis). These comprise the central canon of Hinduism.",
+      "subcategories": [
+        {
+          "name": "Vedas",
+          "description": "The Vedas are the oldest sacred texts of Hinduism, composed in Vedic Sanskrit between 1500-500 BCE. They contain hymns, philosophical discussions, and instructions for rituals.",
+          "texts": [
+            {
+              "id": "rigveda",
+              "name": "Rigveda",
+              "sanskrit": "ऋग्वेद",
+              "description": "The oldest of the Vedas, containing 1,028 hymns dedicated to various deities, particularly Indra, Agni, and Soma.",
+              "structure": "Divided into 10 mandalas (books) with over 10,000 verses.",
+              "significance": "Contains the oldest known Vedic Sanskrit hymns and is fundamental to Vedic religion.",
+              "key_concepts": ["Hymns to deities", "Creation myths", "Ritual instructions", "Philosophical inquiries"],
+              "sample_verses": [
+                {
+                  "reference": "Rigveda 10.129.1-2",
+                  "sanskrit": "नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् । किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ॥",
+                  "translation": "Then was not non-existent nor existent: there was no realm of air, no sky beyond it. What covered in, and where? and what gave shelter? Was water there, unfathomed depth of water?",
+                  "explanation": "This famous hymn, known as the Nasadiya Sukta or Creation Hymn, explores the origin of the universe, questioning what existed before creation."
+                }
+              ]
+            },
+            {
+              "id": "samaveda",
+              "name": "Samaveda",
+              "sanskrit": "सामवेद",
+              "description": "A collection of melodies and chants, largely derived from the Rigveda but arranged for liturgical purposes.",
+              "structure": "Contains about 1,875 verses, most borrowed from the Rigveda but set to musical notes.",
+              "significance": "Forms the basis for Indian classical music and is meant to be sung during rituals.",
+              "key_concepts": ["Musical chants", "Ritual melodies", "Sacrificial ceremonies"],
+              "sample_verses": [
+                {
+                  "reference": "Samaveda 1.1.1",
+                  "sanskrit": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥",
+                  "translation": "Come, Agni, praised with song, to feast and sacrificial offering: sit as Hotar on the grass!",
+                  "explanation": "This verse invokes Agni, the fire god, to come and accept offerings during a ritual sacrifice."
+                }
+              ]
+            },
+            {
+              "id": "yajurveda",
+              "name": "Yajurveda",
+              "sanskrit": "यजुर्वेद",
+              "description": "Contains prose mantras and verses used for various rituals and sacrifices.",
+              "structure": "Exists in two main recensions: the Krishna (Black) and Shukla (White) Yajurveda.",
+              "significance": "Provides detailed instructions for performing religious rituals and sacrifices.",
+              "key_concepts": ["Sacrificial formulas", "Ritual procedures", "Ceremonial instructions"],
+              "sample_verses": [
+                {
+                  "reference": "Yajurveda 36.18",
+                  "sanskrit": "ॐ द्यौः शान्तिरन्तरिक्षं शान्तिः पृथिवी शान्तिरापः शान्तिरोषधयः शान्तिः । वनस्पतयः शान्तिर्विश्वे देवाः शान्तिर्ब्रह्म शान्तिः सर्वं शान्तिः शान्तिरेव शान्तिः सा मा शान्तिरेधि ॥",
+                  "translation": "Om. May peace radiate there in the whole sky as well as in the vast ethereal space everywhere. May peace reign all over this earth, in water and in all herbs, trees and creepers. May peace flow over the whole universe. May peace be in the supreme being Brahman. And may there always exist in all peace and peace alone.",
+                  "explanation": "This famous peace invocation (Shanti Mantra) calls for peace in all aspects of existence."
+                }
+              ]
+            },
+            {
+              "id": "atharvaveda",
+              "name": "Atharvaveda",
+              "sanskrit": "अथर्ववेद",
+              "description": "Contains spells, charms, and hymns covering aspects of everyday life, including healing, sorcery, and royal affairs.",
+              "structure": "Consists of 20 books with about 6,000 mantras.",
+              "significance": "Provides insights into ancient Indian medicine, society, and magical practices.",
+              "key_concepts": ["Healing spells", "Royal ceremonies", "Magical incantations", "Daily life rituals"],
+              "sample_verses": [
+                {
+                  "reference": "Atharvaveda 19.67.1-7",
+                  "sanskrit": "यत् ते क्रुद्धः परोवप शपथो यद् अवार्तयः । तं ते प्रति प्रहिणमः शिवं वाचं शिवं हृदम् ॥",
+                  "translation": "The curse that you, being angry, have uttered against us, the oath that you have taken in your heart, we send it back to you with peaceful speech and heart.",
+                  "explanation": "This verse deals with countering curses and negative energy, reflecting the Atharvaveda's concern with protective spells."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Upanishads",
+          "description": "The Upanishads are philosophical texts that form the theoretical basis for Hinduism. They explore metaphysical concepts, consciousness, and the nature of reality and self.",
+          "texts": [
+            {
+              "id": "brihadaranyaka",
+              "name": "Brihadaranyaka Upanishad",
+              "sanskrit": "बृहदारण्यक उपनिषद्",
+              "description": "One of the oldest and most important Upanishads, containing discussions on metaphysics, philosophy, and the nature of reality.",
+              "structure": "Consists of 6 chapters (adhyayas) with multiple brahmanas each.",
+              "significance": "Contains key teachings on Atman (self), Brahman (ultimate reality), and their unity.",
+              "key_concepts": ["Atman-Brahman unity", "Self-knowledge", "Meditation", "Death and rebirth"],
+              "sample_verses": [
+                {
+                  "reference": "Brihadaranyaka Upanishad 1.3.28",
+                  "sanskrit": "असतो मा सद्गमय । तमसो मा ज्योतिर्गमय । मृत्योर्मा अमृतं गमय ॥",
+                  "translation": "Lead me from the unreal to the real. Lead me from darkness to light. Lead me from death to immortality.",
+                  "explanation": "This famous prayer asks for spiritual guidance from ignorance to knowledge, from darkness to enlightenment."
+                }
+              ]
+            },
+            {
+              "id": "chandogya",
+              "name": "Chandogya Upanishad",
+              "sanskrit": "छान्दोग्य उपनिषद्",
+              "description": "A major philosophical text that discusses meditation, ethics, and the nature of reality through dialogues and stories.",
+              "structure": "Consists of 8 chapters with numerous sections.",
+              "significance": "Contains the famous teaching 'Tat Tvam Asi' (That Thou Art), expressing the unity of individual self with ultimate reality.",
+              "key_concepts": ["Udgitha (sacred sound)", "Prana (life force)", "Self-realization", "Unity of existence"],
+              "sample_verses": [
+                {
+                  "reference": "Chandogya Upanishad 6.8.7",
+                  "sanskrit": "स य एषोऽणिमैतदात्म्यमिदं सर्वं तत्सत्यं स आत्मा तत्त्वमसि श्वेतकेतो",
+                  "translation": "That which is the subtle essence, this whole world has that as its self. That is Reality. That is Atman. Thou art That, O Svetaketu.",
+                  "explanation": "This verse contains the famous 'Tat Tvam Asi' (Thou Art That) teaching, one of the Mahavakyas or great sayings of Vedanta philosophy."
+                }
+              ]
+            },
+            {
+              "id": "katha",
+              "name": "Katha Upanishad",
+              "sanskrit": "कठ उपनिषद्",
+              "description": "Tells the story of Nachiketa and his conversation with Yama (Death) about the nature of the soul and afterlife.",
+              "structure": "Divided into 2 chapters with 3 sections each.",
+              "significance": "Explores the meaning of death, the nature of the self, and the path to immortality.",
+              "key_concepts": ["Immortality", "Self-knowledge", "Yoga", "Death and rebirth"],
+              "sample_verses": [
+                {
+                  "reference": "Katha Upanishad 1.2.20",
+                  "sanskrit": "अणोरणीयान्महतो महीयानात्मास्य जन्तोर्निहितो गुहायाम् । तमक्रतुः पश्यति वीतशोको धातुप्रसादान्महिमानमात्मनः ॥",
+                  "translation": "The Self, smaller than the small, greater than the great, is hidden in the hearts of all living creatures. A man who is free from desires and free from sorrow sees the majesty of the Self through the tranquility of the senses and the mind.",
+                  "explanation": "This verse describes the paradoxical nature of the Self (Atman) as both infinitesimal and infinite, perceivable only when the mind is calm and desires are transcended."
+                }
+              ]
+            },
+            {
+              "id": "isha",
+              "name": "Isha Upanishad",
+              "sanskrit": "ईश उपनिषद्",
+              "description": "One of the shortest Upanishads, focusing on the all-pervading nature of the Supreme Being and the unity of all existence.",
+              "structure": "Consists of 18 verses.",
+              "significance": "Emphasizes both knowledge (vidya) and ignorance (avidya) as necessary for spiritual growth.",
+              "key_concepts": ["Renunciation", "Unity of existence", "Balance of spiritual and material life"],
+              "sample_verses": [
+                {
+                  "reference": "Isha Upanishad 1",
+                  "sanskrit": "ईशा वास्यमिदं सर्वं यत्किञ्च जगत्यां जगत् । तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥",
+                  "translation": "All this, whatever exists in this changing universe, should be covered by the Lord. Protect yourself through that detachment. Do not covet anybody's wealth.",
+                  "explanation": "This opening verse teaches that everything in the universe is pervaded by the divine, and one should enjoy life with detachment and without greed."
+                }
+              ]
+            },
+            {
+              "id": "mundaka",
+              "name": "Mundaka Upanishad",
+              "sanskrit": "मुण्डक उपनिषद्",
+              "description": "Distinguishes between higher knowledge (para vidya) that leads to spiritual liberation and lower knowledge (apara vidya) of worldly sciences.",
+              "structure": "Divided into 3 chapters with 2 sections each.",
+              "significance": "Contains the famous analogy of two birds on a tree representing the individual self and the Supreme Self.",
+              "key_concepts": ["Higher and lower knowledge", "Brahman", "Spiritual practice", "Liberation"],
+              "sample_verses": [
+                {
+                  "reference": "Mundaka Upanishad 3.1.1",
+                  "sanskrit": "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते । तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ॥",
+                  "translation": "Two birds, inseparable companions, perch on the same tree. One eats the sweet fruit, while the other looks on without eating.",
+                  "explanation": "This verse uses the metaphor of two birds to represent the individual soul (jiva) that experiences life's pleasures and pains, and the witnessing divine Self (Atman) that observes without attachment."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Smriti",
+      "description": "Smriti texts are a vast corpus of derivative works attributed to authors, considered less authoritative than Shruti in Hinduism but highly influential in religious practice and cultural traditions.",
+      "subcategories": [
+        {
+          "name": "Epics (Itihasa)",
+          "description": "The great Hindu epics that contain both historical narratives and profound philosophical and religious teachings.",
+          "texts": [
+            {
+              "id": "mahabharata",
+              "name": "Mahabharata",
+              "sanskrit": "महाभारत",
+              "description": "The world's longest epic poem, telling the story of the Kurukshetra War between the Pandavas and Kauravas, and containing numerous philosophical and devotional passages.",
+              "structure": "Contains 18 books (parvas) with over 100,000 verses.",
+              "significance": "Includes the Bhagavad Gita and numerous dharmic teachings through stories and dialogues.",
+              "key_concepts": ["Dharma (duty)", "Karma (action)", "Bhakti (devotion)", "Moksha (liberation)"],
+              "sample_verses": [
+                {
+                  "reference": "Mahabharata 1.1.267",
+                  "sanskrit": "धर्मे चार्थे च कामे च मोक्षे च भरतर्षभ । यदिहास्ति तदन्यत्र यन्नेहास्ति न तत् क्वचित् ॥",
+                  "translation": "O best among the Bharatas, whatever is here about dharma, artha, kama, and moksha can be found elsewhere; but what is not here cannot be found anywhere else.",
+                  "explanation": "This verse emphasizes the comprehensive nature of the Mahabharata, claiming it contains all knowledge about the four aims of human life."
+                }
+              ]
+            },
+            {
+              "id": "bhagavad_gita",
+              "name": "Bhagavad Gita",
+              "sanskrit": "भगवद्गीता",
+              "description": "Part of the Mahabharata, the Gita is a 700-verse dialogue between Prince Arjuna and Lord Krishna on the battlefield of Kurukshetra.",
+              "structure": "Consists of 18 chapters covering various yogas (paths) to spiritual realization.",
+              "significance": "Considered the essence of Vedic knowledge and one of the most important texts in Hinduism.",
+              "key_concepts": ["Karma Yoga (path of action)", "Bhakti Yoga (path of devotion)", "Jnana Yoga (path of knowledge)", "Dharma (duty)"],
+              "sample_verses": [
+                {
+                  "reference": "Bhagavad Gita 2.47",
+                  "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥",
+                  "translation": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.",
+                  "explanation": "This famous verse teaches the principle of detached action—performing one's duties without attachment to results, which is the essence of Karma Yoga."
+                }
+              ]
+            },
+            {
+              "id": "ramayana",
+              "name": "Ramayana",
+              "sanskrit": "रामायण",
+              "description": "The epic tale of Prince Rama's exile, the abduction of his wife Sita, and the eventual defeat of the demon king Ravana.",
+              "structure": "Consists of 7 books (kandas) with approximately 24,000 verses.",
+              "significance": "Serves as a model for ideal behavior and relationships, particularly dharmic conduct.",
+              "key_concepts": ["Dharma (righteousness)", "Ideal kingship", "Devotion", "Ideal relationships"],
+              "sample_verses": [
+                {
+                  "reference": "Ramayana, Ayodhya Kanda 27.6",
+                  "sanskrit": "रामो विग्रहवान् धर्मः साधुः सत्यपराक्रमः । राजा सर्वस्य लोकस्य देवानामिव वासवः ॥",
+                  "translation": "Rama is dharma personified, he is goodness, he is truth in action. He is the king of the entire world, just as Indra is the king of the gods.",
+                  "explanation": "This verse describes Rama as the embodiment of dharma (righteousness), highlighting his role as the ideal king and human being."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Puranas",
+          "description": "Ancient texts that contain stories of the universe's creation, genealogies of kings, heroes, sages, and gods, as well as guidelines for religious ceremonies and temple building.",
+          "texts": [
+            {
+              "id": "bhagavata_purana",
+              "name": "Bhagavata Purana",
+              "sanskrit": "भागवत पुराण",
+              "description": "One of the most popular and important Puranas, focusing on the glory and devotion to Lord Vishnu, particularly in his form as Krishna.",
+              "structure": "Contains 12 books (skandhas) with about 18,000 verses.",
+              "significance": "Central text for Vaishnavism, particularly the Krishna-centered traditions.",
+              "key_concepts": ["Bhakti (devotion)", "Krishna's life and teachings", "Creation", "Devotional practices"],
+              "sample_verses": [
+                {
+                  "reference": "Bhagavata Purana 10.14.8",
+                  "sanskrit": "तत् ते ऽनुकम्पां सुसमीक्षमाणो भुञ्जान एवात्मकृतं विपाकम् । हृद्वाग्वपुर्भिर्विदधन् नमस्ते जीवेत यो मुक्तिपदे स दायभाक् ॥",
+                  "translation": "My dear Lord, one who earnestly waits for You to bestow Your causeless mercy upon him, all the while patiently suffering the reactions of his past misdeeds and offering You respectful obeisances with his heart, words, and body, is surely eligible for liberation, for it has become his rightful claim.",
+                  "explanation": "This verse emphasizes the path of devotion (bhakti) as a means to liberation, highlighting patience, acceptance of karma, and sincere devotion."
+                }
+              ]
+            },
+            {
+              "id": "shiva_purana",
+              "name": "Shiva Purana",
+              "sanskrit": "शिव पुराण",
+              "description": "Glorifies Lord Shiva and contains stories of his manifestations, marriage to Parvati, and various teachings.",
+              "structure": "Consists of 7 samhitas (sections) with numerous chapters.",
+              "significance": "Central text for Shaivism, detailing Shiva's greatness and methods of worship.",
+              "key_concepts": ["Shiva worship", "Cosmic cycles", "Yogic practices", "Shiva's manifestations"],
+              "sample_verses": [
+                {
+                  "reference": "Shiva Purana, Vidyeshvara Samhita 1.16",
+                  "sanskrit": "शिवाय विष्णुरूपाय शिवरूपाय विष्णवे । शिवस्य हृदयं विष्णुर्विष्णोश्च हृदयं शिवः ॥",
+                  "translation": "To Shiva who has the form of Vishnu, to Vishnu who has the form of Shiva; Vishnu is the heart of Shiva, and Shiva is the heart of Vishnu.",
+                  "explanation": "This verse emphasizes the unity of Shiva and Vishnu, suggesting that despite sectarian divisions, the supreme deities are ultimately one."
+                }
+              ]
+            },
+            {
+              "id": "vishnu_purana",
+              "name": "Vishnu Purana",
+              "sanskrit": "विष्णु पुराण",
+              "description": "One of the most important Puranas, focusing on Lord Vishnu and his avatars, particularly Krishna.",
+              "structure": "Divided into 6 parts (amshas) with numerous chapters.",
+              "significance": "Provides detailed cosmology, genealogies, and stories of Vishnu's incarnations.",
+              "key_concepts": ["Vishnu's supremacy", "Creation and dissolution", "Dharma", "Vishnu's avatars"],
+              "sample_verses": [
+                {
+                  "reference": "Vishnu Purana 1.2.1",
+                  "sanskrit": "नमः परस्मै पुरुषाय भूयसे सदुद्भवस्थानविलयाश्रयाय । यो लोकपालैरपि लालितं पदं न वेद मायावृतबुद्धिरीश्वरः ॥",
+                  "translation": "Salutations to the Supreme Being who is the support of the creation, sustenance, and dissolution of the universe, whose lotus feet even the lords of the worlds seek to worship, but whose true nature remains unknown due to the veil of maya.",
+                  "explanation": "This verse offers reverence to Vishnu as the supreme deity who supports all cosmic functions, yet remains mysterious even to lesser gods due to his illusory power (maya)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dharmashastra",
+          "description": "Ancient legal texts that contain detailed codes of conduct, laws, ethics, and guidelines for personal, social, and religious behavior.",
+          "texts": [
+            {
+              "id": "manu_smriti",
+              "name": "Manu Smriti",
+              "sanskrit": "मनुस्मृति",
+              "description": "Also known as Manava Dharmashastra, it is the most well-known legal text of ancient India, covering social, political, and religious aspects of life.",
+              "structure": "Contains 12 chapters with about 2,700 verses.",
+              "significance": "Historically influential in shaping Hindu law and social practices.",
+              "key_concepts": ["Varna (caste) duties", "Raja-dharma (duties of kings)", "Civil and criminal laws", "Rituals and sacraments"],
+              "sample_verses": [
+                {
+                  "reference": "Manu Smriti 2.12",
+                  "sanskrit": "वेदोऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम् । आचारश्चैव साधूनामात्मनस्तुष्टिरेव च ॥",
+                  "translation": "The Veda, the sacred tradition, the customs of virtuous men, and one's own satisfaction—these are declared to be the four-fold sources of dharma.",
+                  "explanation": "This verse outlines the four sources of dharma (righteous conduct): the Vedas, tradition (smriti), the practices of the virtuous, and one's conscience."
+                }
+              ]
+            },
+            {
+              "id": "yajnavalkya_smriti",
+              "name": "Yajnavalkya Smriti",
+              "sanskrit": "याज्ञवल्क्य स्मृति",
+              "description": "A major legal text that is more systematic and concise than the Manu Smriti, covering civil law, judicial procedure, and religious duties.",
+              "structure": "Consists of 3 chapters with about 1,000 verses.",
+              "significance": "Formed the basis for later Hindu law compilations and commentaries.",
+              "key_concepts": ["Legal procedures", "Inheritance", "Marriage laws", "Religious duties"],
+              "sample_verses": [
+                {
+                  "reference": "Yajnavalkya Smriti 1.1",
+                  "sanskrit": "योगीश्वरं याज्ञवल्क्यं संपूज्य मुनयोऽब्रुवन् । वर्णाश्रमेतराणां नो ब्रूहि धर्मानशेषतः ॥",
+                  "translation": "Having worshipped Yajnavalkya, the lord of yogis, the sages said: 'Tell us completely the dharmas of the varnas, ashramas, and others.'",
+                  "explanation": "This opening verse sets the context for the text, with sages requesting Yajnavalkya to expound on the duties of different social classes and life stages."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

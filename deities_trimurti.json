@@ -1,0 +1,256 @@
+{
+  "category": "Trimurti",
+  "description": "The Trimurti are the most prominent deities of contemporary Hinduism. This consists of Brahma - the Creator, Vishnu - the Preserver, and Shiva - the Destroyer.",
+  "deities": [
+    {
+      "id": "brahma",
+      "name": {
+        "english": "Brahma",
+        "sanskrit": "ब्रह्मा",
+        "transliteration": "Brahmā"
+      },
+      "description": "Brahma is the god of creation, and the first of the Trimurti. He is identified with the Vedic creator god, Prajapati. The deity is said to have been born out of a lotus that grew out of the navel of Vishnu. He was given the four Vedas by Vishnu, and instructed to commence the act of creation.",
+      "attributes": {
+        "appearance": "Depicted with four faces and four arms, often with a beard, representing the four Vedas or the four directions",
+        "weapons": ["Kamandalu (water pot)", "Vedas (scriptures)", "Mala (prayer beads)", "Lotus"],
+        "vehicles": ["Hamsa (swan)"],
+        "symbols": ["Lotus", "Four faces", "Prayer beads"]
+      },
+      "cosmic_role": "Creator of the universe and all beings. Brahma is responsible for the creation of the world and all creatures. His role is creation of the cosmos and all beings.",
+      "relationships": [
+        {
+          "deity": "vishnu",
+          "relationship": "Brahma is said to have emerged from a lotus that grew from Vishnu's navel, symbolizing that creation emerges from preservation."
+        },
+        {
+          "deity": "saraswati",
+          "relationship": "Saraswati is the consort and shakti (divine energy) of Brahma."
+        }
+      ],
+      "stories": [
+        {
+          "title": "Birth of Brahma",
+          "summary": "Brahma emerged from a lotus that grew from the navel of Lord Vishnu while he was in cosmic sleep (Yoga Nidra).",
+          "full_text": "According to Hindu mythology, at the beginning of the creation cycle, Lord Vishnu was resting on the cosmic waters on the serpent Shesha. From his navel grew a lotus, and from this lotus emerged Brahma. Vishnu instructed Brahma to create the world, giving him the four Vedas as the foundation of knowledge for this creation."
+        },
+        {
+          "title": "Brahma's Fifth Head",
+          "summary": "Brahma originally had five heads but lost one due to his arrogance towards Lord Shiva.",
+          "full_text": "According to one legend, Brahma originally had five heads. The fifth head appeared when Brahma became infatuated with Shatarupa (sometimes identified with Saraswati), a beautiful woman he had created. To enable himself to see her constantly, Brahma grew five heads in different directions. When Shatarupa tried to escape his gaze by moving to the sky, Brahma grew a fifth head on top. This act of passion and the subsequent pride in his creation angered Lord Shiva, who cut off Brahma's fifth head to humble him."
+        }
+      ],
+      "festivals": [
+        {
+          "name": "Brahmotsavam",
+          "description": "A festival dedicated to Brahma, though not widely celebrated compared to festivals for other deities",
+          "date_calculation": "Varies by region",
+          "practices": "Temple rituals, offerings, and prayers"
+        }
+      ],
+      "worship": {
+        "mantras": ["Om Brahmaya Namaha", "Brahma Gayatri Mantra"],
+        "rituals": ["Offerings of flowers, especially red lotus", "Recitation of Vedic hymns"],
+        "offerings": ["Ghee", "Milk", "Honey", "Flowers"]
+      },
+      "abode": "Satyaloka (Realm of Truth)",
+      "epithets": ["Vedanatha", "Chaturmukha", "Prajapati", "Vedagarbha", "Kaushala"]
+    },
+    {
+      "id": "vishnu",
+      "name": {
+        "english": "Vishnu",
+        "sanskrit": "विष्णु",
+        "transliteration": "Viṣṇu"
+      },
+      "description": "Vishnu is the god of preservation, and the second of the Trimurti. He is generally regarded to be the entity who is most often involved in mortal affairs. He is regarded to have undertaken ten major incarnations upon the earth for the restoration of dharma and cosmic order, for the sake of the devas and human beings.",
+      "attributes": {
+        "appearance": "Depicted with blue or dark complexion, four arms, wearing yellow garments",
+        "weapons": ["Sudarshana Chakra (discus)", "Kaumodaki (mace)", "Panchajanya (conch)", "Padma (lotus)"],
+        "vehicles": ["Garuda (eagle)"],
+        "symbols": ["Lotus", "Conch shell", "Discus", "Mace"]
+      },
+      "cosmic_role": "Preserver and protector of the universe. Vishnu maintains the cosmic order and descends to Earth in various avatars to restore dharma whenever it is threatened.",
+      "relationships": [
+        {
+          "deity": "lakshmi",
+          "relationship": "Lakshmi is the consort and shakti (divine energy) of Vishnu."
+        },
+        {
+          "deity": "brahma",
+          "relationship": "Brahma emerged from a lotus from Vishnu's navel, symbolizing that Vishnu is the source of creation."
+        }
+      ],
+      "stories": [
+        {
+          "title": "Samudra Manthan (Churning of the Ocean)",
+          "summary": "Vishnu took the form of a turtle (Kurma) to support Mount Mandara during the churning of the cosmic ocean.",
+          "full_text": "The devas (gods) and asuras (demons) decided to churn the cosmic ocean to obtain amrita (the nectar of immortality). They used Mount Mandara as the churning rod and the serpent Vasuki as the rope. To provide a stable base for the mountain, Vishnu incarnated as a giant turtle (Kurma) and supported the mountain on his back. During this churning, many treasures emerged, including Lakshmi, the goddess of fortune, who became Vishnu's consort."
+        },
+        {
+          "title": "Vishnu's Cosmic Sleep",
+          "summary": "Between cosmic cycles, Vishnu rests on the serpent Shesha, floating on the cosmic waters.",
+          "full_text": "Between cycles of creation and dissolution, Vishnu rests in yogic sleep (Yoga Nidra) on the coils of the cosmic serpent Shesha (also called Ananta), who floats on the primordial waters. During this sleep, Vishnu dreams the universe into existence. From his navel grows a lotus, from which Brahma emerges to begin the next cycle of creation."
+        }
+      ],
+      "festivals": [
+        {
+          "name": "Vaikuntha Ekadashi",
+          "description": "A day considered most sacred for the worship of Vishnu",
+          "date_calculation": "Eleventh day of the bright half of the lunar month of Margashirsha (December-January)",
+          "practices": "Fasting, night-long vigil, temple worship"
+        },
+        {
+          "name": "Rama Navami",
+          "description": "Celebrates the birth of Lord Rama, an avatar of Vishnu",
+          "date_calculation": "Ninth day of the bright half of the lunar month of Chaitra (March-April)",
+          "practices": "Temple rituals, recitation of the Ramayana, processions"
+        },
+        {
+          "name": "Janmashtami",
+          "description": "Celebrates the birth of Lord Krishna, an avatar of Vishnu",
+          "date_calculation": "Eighth day of the dark half of the lunar month of Bhadrapada (August-September)",
+          "practices": "Fasting, night vigil, devotional singing, reenactment of Krishna's childhood"
+        }
+      ],
+      "worship": {
+        "mantras": ["Om Namo Narayanaya", "Vishnu Sahasranama"],
+        "rituals": ["Offering of Tulsi (holy basil) leaves", "Abhishekam (ritual bathing of the deity)"],
+        "offerings": ["Tulsi leaves", "Yellow flowers", "Fruits", "Sweets"]
+      },
+      "abode": "Vaikuntha",
+      "epithets": ["Narayana", "Hari", "Madhava", "Govinda", "Keshava", "Padmanabha"],
+      "avatars": [
+        {
+          "name": "Matsya",
+          "description": "The fish avatar who saved the Vedas and Manu (the progenitor of humanity) from a great deluge"
+        },
+        {
+          "name": "Kurma",
+          "description": "The tortoise avatar who supported Mount Mandara during the churning of the ocean"
+        },
+        {
+          "name": "Varaha",
+          "description": "The boar avatar who rescued the Earth goddess Bhudevi from the demon Hiranyaksha"
+        },
+        {
+          "name": "Narasimha",
+          "description": "The half-man, half-lion avatar who defeated the demon king Hiranyakashipu"
+        },
+        {
+          "name": "Vamana",
+          "description": "The dwarf avatar who defeated the demon king Bali by growing into the giant Trivikrama"
+        },
+        {
+          "name": "Parashurama",
+          "description": "The warrior sage who rid the earth of corrupt Kshatriya rulers"
+        },
+        {
+          "name": "Rama",
+          "description": "The prince of Ayodhya, hero of the Ramayana, who defeated the demon king Ravana"
+        },
+        {
+          "name": "Krishna",
+          "description": "The divine statesman and philosopher who delivered the Bhagavad Gita and played a key role in the Mahabharata"
+        },
+        {
+          "name": "Buddha",
+          "description": "The enlightened one who taught the path of compassion and non-violence"
+        },
+        {
+          "name": "Kalki",
+          "description": "The future avatar who will appear at the end of the Kali Yuga to restore dharma"
+        }
+      ]
+    },
+    {
+      "id": "shiva",
+      "name": {
+        "english": "Shiva",
+        "sanskrit": "शिव",
+        "transliteration": "Śiva"
+      },
+      "description": "Shiva is the god of destruction, and the third of the Trimurti. He is often represented with two sons, Kartikeya and Ganesha. His mount is the bull called Nandi. He is usually depicted with a third eye, a crescent upon his forehead, the Ganges flowing from his head, and a blue throat occasioned by consuming the kalakuta poison produced at the churning of the ocean.",
+      "attributes": {
+        "appearance": "Often depicted with ash-smeared body, third eye on forehead, crescent moon in his hair, the Ganges flowing from his matted locks, and a blue throat",
+        "weapons": ["Trishula (trident)", "Pashupatastra", "Pinaka (bow)", "Parashu (axe)"],
+        "vehicles": ["Nandi (bull)"],
+        "symbols": ["Third eye", "Crescent moon", "Damaru (drum)", "Sacred thread of snake", "Rudraksha beads"]
+      },
+      "cosmic_role": "Destroyer and transformer. Shiva is responsible for the dissolution of the universe at the end of each cosmic cycle, making way for new creation. He is also the lord of yoga, meditation, and arts.",
+      "relationships": [
+        {
+          "deity": "parvati",
+          "relationship": "Parvati is the consort and shakti (divine energy) of Shiva."
+        },
+        {
+          "deity": "ganesha",
+          "relationship": "Ganesha is the son of Shiva and Parvati."
+        },
+        {
+          "deity": "kartikeya",
+          "relationship": "Kartikeya (also known as Murugan or Skanda) is the son of Shiva and Parvati."
+        }
+      ],
+      "stories": [
+        {
+          "title": "Drinking of the Poison",
+          "summary": "During the churning of the cosmic ocean, Shiva drank the deadly poison Halahala to save the universe.",
+          "full_text": "During the churning of the cosmic ocean (Samudra Manthan), a deadly poison called Halahala emerged that threatened to destroy the universe. To save creation, Shiva collected the poison in his palm and drank it. His consort Parvati, alarmed, held his throat to prevent the poison from going further, causing his throat to turn blue. This earned him the name Neelakantha (the blue-throated one)."
+        },
+        {
+          "title": "Marriage to Parvati",
+          "summary": "After the death of his first wife Sati, Shiva retreated into meditation until Parvati's devotion brought him back.",
+          "full_text": "After the self-immolation of his first wife Sati, Shiva was overcome with grief and retreated to the Himalayas to practice intense meditation. Sati reincarnated as Parvati, daughter of the mountain king Himavan, and was determined to win Shiva's love. She served him devotedly and performed severe austerities to prove her dedication. Eventually, impressed by her devotion and with the help of Kama (the god of love), Shiva accepted Parvati as his consort, and they were married in a divine ceremony attended by all the gods."
+        },
+        {
+          "title": "Nataraja - The Cosmic Dancer",
+          "summary": "Shiva as Nataraja performs the cosmic dance of creation and destruction.",
+          "full_text": "As Nataraja, the Lord of Dance, Shiva performs the Tandava, the cosmic dance that symbolizes the cycles of creation and destruction. In this form, he is depicted within a circle of flames, with one foot crushing the demon of ignorance (Apasmara) and the other raised in dance. His upper right hand holds a drum (damaru) that symbolizes creation, his upper left hand holds fire symbolizing destruction, his lower right hand is in the abhaya mudra (gesture of fearlessness), and his lower left hand points to his raised foot, signifying liberation."
+        }
+      ],
+      "festivals": [
+        {
+          "name": "Maha Shivaratri",
+          "description": "The great night of Shiva, celebrating his cosmic dance and marriage to Parvati",
+          "date_calculation": "The 14th night of the new moon in the Hindu month of Phalguna (February-March)",
+          "practices": "All-night vigil, fasting, offering of bael leaves, chanting of mantras"
+        },
+        {
+          "name": "Pradosha Vrata",
+          "description": "Bi-monthly worship of Shiva",
+          "date_calculation": "13th day of each lunar fortnight",
+          "practices": "Evening prayers, abhishekam (ritual bathing of the Shiva lingam)"
+        }
+      ],
+      "worship": {
+        "mantras": ["Om Namah Shivaya", "Maha Mrityunjaya Mantra"],
+        "rituals": ["Abhishekam (ritual bathing of the Shiva lingam)", "Offering of bael leaves"],
+        "offerings": ["Milk", "Water", "Honey", "Bael leaves", "Bilva fruit", "Dhatura flowers"]
+      },
+      "abode": "Mount Kailash",
+      "epithets": ["Mahadeva", "Rudra", "Neelakantha", "Bholenath", "Nataraja", "Maheshvara"],
+      "forms": [
+        {
+          "name": "Nataraja",
+          "description": "The Lord of Dance, performing the cosmic dance of creation and destruction"
+        },
+        {
+          "name": "Dakshinamurthy",
+          "description": "The supreme guru who teaches through silence"
+        },
+        {
+          "name": "Ardhanarishvara",
+          "description": "Half male and half female form representing the unity of Shiva and Shakti"
+        },
+        {
+          "name": "Bhairava",
+          "description": "The fierce manifestation of Shiva associated with annihilation"
+        },
+        {
+          "name": "Lingam",
+          "description": "The abstract representation of Shiva as the cosmic pillar of light"
+        }
+      ]
+    }
+  ]
+}
