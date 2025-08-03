@@ -1,0 +1,184 @@
+{
+  "category": "Epics",
+  "description": "The Mahabharata and Bhagavad Gita are among the most important texts in Hindu tradition. The Mahabharata is one of the two major Sanskrit epics of ancient India, and the Bhagavad Gita is a 700-verse Hindu scripture that is part of the Mahabharata epic.",
+  "scriptures": [
+    {
+      "id": "mahabharata",
+      "name": {
+        "english": "Mahabharata",
+        "sanskrit": "महाभारतम्",
+        "transliteration": "Mahābhāratam"
+      },
+      "description": "The Mahabharata is one of the two major Sanskrit epics of ancient India, the other being the Ramayana. It narrates the events and aftermath of the Kurukshetra War, a war of succession between two groups of princely cousins, the Kauravas and the Pandavas.",
+      "historical_context": "The bulk of the Mahabharata was probably compiled between the 3rd century BCE and the 3rd century CE, with the oldest preserved parts not much older than around 400 BCE. The text probably reached its final form by the early Gupta period (c. 4th century CE).",
+      "summary": "The Mahabharata tells the story of the Kuru dynasty, focusing on the cousins known as the Kauravas and the Pandavas. The Pandavas are the five sons of King Pandu: Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva. The Kauravas are the 100 sons of King Dhritarashtra, led by the eldest, Duryodhana. The central conflict arises when both sides claim the throne of Hastinapura. After many attempts at peaceful resolution fail, a great eighteen-day battle is fought at Kurukshetra. The Pandavas emerge victorious but at a great cost, as nearly all warriors on both sides are killed. The epic explores themes of duty, righteousness, family loyalty, and the consequences of actions.",
+      "structure": {
+        "parts": ["18 Parvas (Books)"],
+        "chapters": "Numerous chapters within each Parva",
+        "verses": "Over 100,000 verses, making it the longest epic poem known"
+      },
+      "key_concepts": [
+        {
+          "name": "Dharma",
+          "description": "The concept of righteous duty, moral law, and proper conduct that each individual must follow according to their position in society and stage of life."
+        },
+        {
+          "name": "Karma",
+          "description": "The principle that actions have consequences, both in this life and future lives, and that one's destiny is shaped by one's actions."
+        },
+        {
+          "name": "Bhakti",
+          "description": "Devotion to the divine, particularly as exemplified in Krishna's teachings to Arjuna in the Bhagavad Gita."
+        },
+        {
+          "name": "Moksha",
+          "description": "Liberation from the cycle of death and rebirth, which is the ultimate goal of Hindu spiritual practice."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Mahabharata 1.1.1",
+          "sanskrit": "नारायणं नमस्कृत्य नरं चैव नरोत्तमम् । देवीं सरस्वतीं चैव ततो जयमुदीरयेत् ॥",
+          "transliteration": "Nārāyaṇaṃ namaskṛtya naraṃ caiva narottamam, devīṃ sarasvatīṃ caiva tato jayamudīrayet.",
+          "translation": "Having bowed to Narayana and Nara, the most exalted of male beings, and also to the goddess Sarasvati, must the word 'Jaya' be uttered.",
+          "explanation": "This opening verse of the Mahabharata invokes divine blessing before beginning the epic tale. It acknowledges Narayana (Vishnu), Nara (often identified with Arjuna), and the goddess Sarasvati before pronouncing 'Jaya' (victory), which is also one of the names of the epic."
+        }
+      ],
+      "related_deities": ["krishna", "vishnu", "shiva"],
+      "major_characters": [
+        {
+          "name": "Pandavas",
+          "description": "The five sons of King Pandu: Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva, who are the protagonists of the epic."
+        },
+        {
+          "name": "Kauravas",
+          "description": "The 100 sons of King Dhritarashtra, led by the eldest, Duryodhana, who are the antagonists of the epic."
+        },
+        {
+          "name": "Krishna",
+          "description": "An avatar of Vishnu who serves as Arjuna's charioteer and advisor during the Kurukshetra War. He delivers the Bhagavad Gita to Arjuna."
+        },
+        {
+          "name": "Draupadi",
+          "description": "The common wife of the five Pandava brothers and a central female character whose humiliation becomes one of the causes of the war."
+        },
+        {
+          "name": "Bhishma",
+          "description": "The grand uncle of both the Pandavas and Kauravas, known for his wisdom and his vow of celibacy and loyalty to the throne of Hastinapura."
+        },
+        {
+          "name": "Drona",
+          "description": "The royal teacher of warfare to both the Pandavas and Kauravas, who fights on the side of the Kauravas during the war."
+        },
+        {
+          "name": "Karna",
+          "description": "The son of Kunti (mother of the Pandavas) born before her marriage, who becomes an ally of Duryodhana and a formidable opponent to the Pandavas."
+        }
+      ],
+      "major_stories": [
+        {
+          "title": "The Game of Dice",
+          "summary": "Duryodhana invites the Pandavas to a game of dice, which is rigged in his favor. Yudhishthira loses everything, including himself, his brothers, and their wife Draupadi. Draupadi is humiliated in court, and the Pandavas are sent into exile for 13 years."
+        },
+        {
+          "title": "The Kurukshetra War",
+          "summary": "The 18-day battle fought between the Kauravas and the Pandavas on the battlefield of Kurukshetra. It results in the victory of the Pandavas but at a great cost, with nearly all warriors on both sides killed."
+        },
+        {
+          "title": "The Bhagavad Gita",
+          "summary": "Before the battle begins, Arjuna is overcome with doubt about fighting his own relatives. Krishna, serving as his charioteer, delivers a philosophical discourse on duty, action, and devotion that becomes the Bhagavad Gita."
+        }
+      ]
+    },
+    {
+      "id": "bhagavad_gita",
+      "name": {
+        "english": "Bhagavad Gita",
+        "sanskrit": "भगवद्गीता",
+        "transliteration": "Bhagavad Gītā"
+      },
+      "description": "The Bhagavad Gita, often referred to as the Gita, is a 700-verse Hindu scripture that is part of the epic Mahabharata. It is a synthesis of various strands of Indian religious thought, including the Vedic concept of dharma (duty, rightful action); samkhya-based yoga and jnana (knowledge); and bhakti (devotion).",
+      "historical_context": "The text is generally dated to the second or first century BCE. It is set on the battlefield of Kurukshetra, just before the start of the war between the Pandavas and Kauravas.",
+      "summary": "The Bhagavad Gita takes the form of a dialogue between the Pandava prince Arjuna and his charioteer guide Krishna, an avatar of Vishnu. Facing the prospect of fighting his own relatives in the Kurukshetra War, Arjuna is overcome with doubt and despair. Krishna counsels him on various philosophical and spiritual matters, encouraging him to fulfill his duty (dharma) as a warrior while maintaining detachment from the fruits of his actions. The text explores themes of duty, righteousness, devotion, and the nature of the self and the divine.",
+      "structure": {
+        "parts": ["18 Chapters"],
+        "chapters": "18",
+        "verses": "700 verses"
+      },
+      "key_concepts": [
+        {
+          "name": "Dharma",
+          "description": "The concept of righteous duty, moral law, and proper conduct that each individual must follow according to their position in society and stage of life."
+        },
+        {
+          "name": "Karma Yoga",
+          "description": "The path of selfless action performed without attachment to results, dedicated to the divine."
+        },
+        {
+          "name": "Bhakti Yoga",
+          "description": "The path of loving devotion to the divine, emphasizing surrender to God."
+        },
+        {
+          "name": "Jnana Yoga",
+          "description": "The path of knowledge and wisdom, focusing on understanding the true nature of reality."
+        },
+        {
+          "name": "Raja Yoga",
+          "description": "The path of meditation and mental discipline, aimed at controlling the mind and senses."
+        },
+        {
+          "name": "Atman and Brahman",
+          "description": "The individual self (Atman) and its relationship to the ultimate reality (Brahman)."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Bhagavad Gita 2.47",
+          "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+          "transliteration": "Karmaṇyevādhikāraste mā phaleṣu kadācana, mā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi.",
+          "translation": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.",
+          "explanation": "This is one of the most famous verses of the Gita, encapsulating the essence of Karma Yoga. It teaches that one should perform one's duty without attachment to the results, focusing on the action itself rather than its fruits."
+        },
+        {
+          "reference": "Bhagavad Gita 4.7-8",
+          "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥ परित्राणाय साधूनां विनाशाय च दुष्कृताम्। धर्मसंस्थापनार्थाय सम्भवामि युगे युगे॥",
+          "transliteration": "Yadā yadā hi dharmasya glānirbhavati bhārata, abhyutthānamadharmasya tadātmānaṃ sṛjāmyaham. Paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām, dharmasaṃsthāpanārthāya sambhavāmi yuge yuge.",
+          "translation": "Whenever there is a decline in righteousness and an increase in unrighteousness, O Arjuna, at that time I manifest myself. To protect the righteous, to annihilate the wicked, and to reestablish the principles of dharma, I appear millennium after millennium.",
+          "explanation": "These verses explain the concept of divine incarnation (avatar). Krishna reveals that he takes birth in every age when there is a decline in dharma (righteousness) to protect the virtuous, destroy the wicked, and reestablish religious principles."
+        },
+        {
+          "reference": "Bhagavad Gita 9.34",
+          "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु। मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः॥",
+          "transliteration": "Manmanā bhava madbhakto madyājī māṃ namaskuru, māmevaiṣyasi yuktvaivamātmānaṃ matparāyaṇaḥ.",
+          "translation": "Engage your mind always in thinking of Me, become My devotee, offer obeisances to Me and worship Me. Being completely absorbed in Me, surely you will come to Me.",
+          "explanation": "This verse emphasizes the path of Bhakti Yoga, or devotional service. Krishna instructs Arjuna to always think of Him, worship Him, and dedicate all actions to Him, promising that through such devotion, one will attain Him."
+        }
+      ],
+      "related_deities": ["krishna", "vishnu"],
+      "major_characters": [
+        {
+          "name": "Krishna",
+          "description": "An avatar of Vishnu who serves as Arjuna's charioteer and delivers the spiritual discourse of the Bhagavad Gita."
+        },
+        {
+          "name": "Arjuna",
+          "description": "The third of the five Pandava brothers, a skilled archer and warrior who faces moral dilemma before the battle and receives Krishna's teachings."
+        }
+      ],
+      "commentaries": [
+        {
+          "name": "Adi Shankaracharya's Commentary",
+          "description": "One of the earliest and most influential commentaries, interpreting the Gita from an Advaita Vedanta perspective that emphasizes non-dualism."
+        },
+        {
+          "name": "Ramanuja's Commentary",
+          "description": "Interprets the Gita from a Vishishtadvaita (qualified non-dualism) perspective, emphasizing devotion to a personal God."
+        },
+        {
+          "name": "Madhvacharya's Commentary",
+          "description": "Presents a Dvaita (dualistic) interpretation, emphasizing the eternal distinction between the individual soul and God."
+        }
+      ]
+    }
+  ]
+}

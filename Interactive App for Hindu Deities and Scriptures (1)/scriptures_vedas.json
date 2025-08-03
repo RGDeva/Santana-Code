@@ -1,0 +1,208 @@
+{
+  "category": "Vedas",
+  "description": "The Vedas are a large body of religious texts originating in ancient India, composed in Vedic Sanskrit. They are among the oldest scriptures of Hinduism and form the foundation of Hindu philosophical thought and practice.",
+  "scriptures": [
+    {
+      "id": "rigveda",
+      "name": {
+        "english": "Rigveda",
+        "sanskrit": "ऋग्वेद",
+        "transliteration": "Ṛgveda"
+      },
+      "description": "The Rigveda is the oldest of the four Vedas and one of the oldest extant texts in any Indo-European language. It consists primarily of hymns to various deities, particularly Agni (fire), Indra (king of gods), Soma, Surya (sun), and others.",
+      "historical_context": "Composed approximately between 1500 BCE and 1200 BCE, the Rigveda represents the earliest phase of Vedic religion. It was transmitted orally for centuries before being written down.",
+      "summary": "The Rigveda contains 1,028 hymns (suktas) organized into ten books or mandalas. These hymns are primarily addressed to various deities and contain praises, prayers, and philosophical inquiries. The text provides insights into the religious beliefs, social structures, and cultural practices of early Vedic society.",
+      "structure": {
+        "parts": ["Ten Mandalas (Books)", "Each Mandala contains multiple Suktas (Hymns)", "Each Sukta contains multiple Richas (Verses)"],
+        "chapters": "10 Mandalas",
+        "verses": "10,552 mantras"
+      },
+      "key_concepts": [
+        {
+          "name": "Rita",
+          "description": "The cosmic order or natural law that governs the universe and human behavior."
+        },
+        {
+          "name": "Yajna",
+          "description": "Sacrificial rituals that form the core of Vedic religious practice."
+        },
+        {
+          "name": "Brahman",
+          "description": "The ultimate reality or universal principle that underlies all existence."
+        },
+        {
+          "name": "Devas",
+          "description": "Divine beings or gods who represent various natural and cosmic forces."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Mandala 1, Hymn 1",
+          "sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् । होतारं रत्नधातमम् ॥",
+          "transliteration": "Agnim īḷe purohitaṃ yajñasya devam ṛtvijam, hotāraṃ ratnadhātamam.",
+          "translation": "I praise Agni, the household priest, the divine minister of the sacrifice, the invoker, the bestower of treasures.",
+          "explanation": "This opening verse of the Rigveda invokes Agni (fire), who serves as the messenger between humans and gods. As the first deity addressed in the Rigveda, Agni holds special significance as the conveyor of sacrifices to the divine realm."
+        },
+        {
+          "reference": "Mandala 10, Hymn 129 (Nasadiya Sukta)",
+          "sanskrit": "नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् । किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ॥",
+          "transliteration": "Nāsadāsīnno sadāsīttadānīṃ nāsīdrajo no vyomā paro yat, kimāvarīvaḥ kuha kasya śarmannambhaḥ kimāsīdgahanaṃ gabhīram.",
+          "translation": "Then there was neither existence nor non-existence. There was neither the realm of space nor the sky which is beyond. What stirred? Where? In whose protection? Was there water, bottomlessly deep?",
+          "explanation": "This famous hymn, known as the 'Creation Hymn' or 'Nasadiya Sukta', explores the origins of the cosmos and represents one of the earliest examples of philosophical speculation about the nature of existence and creation."
+        }
+      ],
+      "related_deities": ["agni", "indra", "soma", "surya", "varuna", "rudra"],
+      "subdivisions": {
+        "samhita": "Collection of mantras or hymns",
+        "brahmana": "Rigveda Brahmana, including Aitareya Brahmana and Kaushitaki Brahmana",
+        "aranyaka": "Aitareya Aranyaka and Kaushitaki Aranyaka",
+        "upanishad": "Aitareya Upanishad and Kaushitaki Upanishad"
+      }
+    },
+    {
+      "id": "yajurveda",
+      "name": {
+        "english": "Yajurveda",
+        "sanskrit": "यजुर्वेद",
+        "transliteration": "Yajurveda"
+      },
+      "description": "The Yajurveda is primarily a collection of ritual formulas and mantras used in various Vedic ceremonies and sacrifices. It serves as a practical guidebook for priests performing rituals.",
+      "historical_context": "Composed after the Rigveda, approximately between 1200 BCE and 800 BCE, the Yajurveda reflects the development of elaborate ritual practices in Vedic society.",
+      "summary": "The Yajurveda contains prose mantras and verses that are recited during religious rituals and sacrificial ceremonies. It exists in two main recensions: the Krishna (Black) Yajurveda, which mixes mantras with prose explanations, and the Shukla (White) Yajurveda, which contains only the mantras.",
+      "structure": {
+        "parts": ["Krishna (Black) Yajurveda", "Shukla (White) Yajurveda"],
+        "chapters": "40 chapters in Shukla Yajurveda, varying in Krishna Yajurveda",
+        "verses": "Approximately 2,000 mantras"
+      },
+      "key_concepts": [
+        {
+          "name": "Yajna",
+          "description": "Sacrificial rituals that form the core of Vedic religious practice."
+        },
+        {
+          "name": "Adhvaryu",
+          "description": "The priest who performs the physical actions of the sacrifice according to the Yajurveda."
+        },
+        {
+          "name": "Karma-kanda",
+          "description": "The ritualistic portion of the Vedas, emphasizing proper performance of ceremonies."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Shukla Yajurveda 36.3",
+          "sanskrit": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्",
+          "transliteration": "Om bhūr bhuvaḥ svaḥ tat savitur vareṇyaṃ bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt",
+          "translation": "We meditate on the glory of that Being who has produced this universe; may He enlighten our minds.",
+          "explanation": "This is the famous Gayatri Mantra, one of the most sacred verses in Hinduism. It is a prayer to the sun deity Savitri (or Surya) for enlightenment and is recited during many Hindu rituals."
+        }
+      ],
+      "related_deities": ["agni", "indra", "soma", "prajapati", "vishnu"],
+      "subdivisions": {
+        "samhita": "Collection of mantras for rituals",
+        "brahmana": "Shatapatha Brahmana (for Shukla Yajurveda) and Taittiriya Brahmana (for Krishna Yajurveda)",
+        "aranyaka": "Brihadaranyaka (for Shukla Yajurveda) and Taittiriya Aranyaka (for Krishna Yajurveda)",
+        "upanishad": "Brihadaranyaka Upanishad, Isha Upanishad (for Shukla Yajurveda) and Taittiriya Upanishad, Katha Upanishad (for Krishna Yajurveda)"
+      }
+    },
+    {
+      "id": "samaveda",
+      "name": {
+        "english": "Samaveda",
+        "sanskrit": "सामवेद",
+        "transliteration": "Sāmaveda"
+      },
+      "description": "The Samaveda is a collection of melodies and chants, primarily derived from the Rigveda but set to music for liturgical purposes. It is considered the Veda of melodies and chants.",
+      "historical_context": "Composed approximately between 1200 BCE and 1000 BCE, the Samaveda represents the development of musical and liturgical aspects of Vedic religion.",
+      "summary": "The Samaveda consists of a collection of hymns intended to be sung during Soma sacrifice and other rituals. About 75% of its verses are borrowed from the Rigveda, but they are arranged differently to facilitate musical recitation. The text is significant for its contribution to Indian classical music.",
+      "structure": {
+        "parts": ["Purvarchika (First Part)", "Uttararchika (Second Part)"],
+        "chapters": "Various divisions based on melodies and ritual applications",
+        "verses": "1,875 verses (mostly from Rigveda)"
+      },
+      "key_concepts": [
+        {
+          "name": "Saman",
+          "description": "Sacred melodies or chants used in rituals."
+        },
+        {
+          "name": "Udgatar",
+          "description": "The priest who sings the Samaveda hymns during rituals."
+        },
+        {
+          "name": "Raga",
+          "description": "Melodic framework for improvisation, with roots in Samaveda chanting."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Samaveda 1.1.1",
+          "sanskrit": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥",
+          "transliteration": "Agna ā yāhi vītaye gṛṇāno havyadātaye, ni hotā satsi barhiṣi",
+          "translation": "Come, Agni, praised for the gift of offerings, sit down as the Hotar on the grass.",
+          "explanation": "This opening verse of the Samaveda, borrowed from the Rigveda but set to melody, invokes Agni to come and accept offerings during the sacrifice."
+        }
+      ],
+      "related_deities": ["agni", "indra", "soma"],
+      "subdivisions": {
+        "samhita": "Collection of melodies and chants",
+        "brahmana": "Tandya Mahabrahmana (or Panchavimsha Brahmana) and Shadvimsha Brahmana",
+        "aranyaka": "Talavakara Aranyaka",
+        "upanishad": "Chandogya Upanishad and Kena Upanishad"
+      }
+    },
+    {
+      "id": "atharvaveda",
+      "name": {
+        "english": "Atharvaveda",
+        "sanskrit": "अथर्ववेद",
+        "transliteration": "Atharvaveda"
+      },
+      "description": "The Atharvaveda is a collection of spells, charms, and incantations for various purposes, including healing, prolonging life, and causing harm to enemies. It also contains philosophical hymns and speculations about the nature of existence.",
+      "historical_context": "Composed approximately between 1200 BCE and 900 BCE, the Atharvaveda represents a different tradition from the other three Vedas, incorporating folk beliefs and magical practices alongside more orthodox Vedic elements.",
+      "summary": "The Atharvaveda contains hymns and instructions for healing diseases, prolonging life, fulfilling desires, and addressing various practical concerns of daily life. It also includes philosophical speculations and is an important source for understanding early Indian medicine, magic, and cosmology.",
+      "structure": {
+        "parts": ["20 books or kandas"],
+        "chapters": "20 kandas with multiple hymns in each",
+        "verses": "Approximately 6,000 mantras"
+      },
+      "key_concepts": [
+        {
+          "name": "Bheshaja",
+          "description": "Healing remedies and medicinal practices."
+        },
+        {
+          "name": "Brahmavidya",
+          "description": "Knowledge of the ultimate reality or Brahman."
+        },
+        {
+          "name": "Angirasa",
+          "description": "Magical formulas and spells for various purposes."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Atharvaveda 19.6.1",
+          "sanskrit": "सत्यं बृहदृतमुग्रं दीक्षा तपो ब्रह्म यज्ञः पृथिवीं धारयन्ति । सा नो भूतस्य भव्यस्य पत्न्युरुं लोकं पृथिवी नः कृणोतु ॥",
+          "transliteration": "Satyaṃ bṛhadṛtamugraṃ dīkṣā tapo brahma yajñaḥ pṛthivīṃ dhārayanti, sā no bhūtasya bhavyasya patnyuruṃ lokaṃ pṛthivī naḥ kṛṇotu",
+          "translation": "Truth, the vast, the powerful, consecration, asceticism, prayer, and sacrifice sustain the earth. May this Earth, the mistress of what was and what will be, prepare a wide world for us.",
+          "explanation": "This verse celebrates the Earth as sustained by truth, ritual, and spiritual practices, and asks for her blessing and protection."
+        },
+        {
+          "reference": "Atharvaveda 10.2.32",
+          "sanskrit": "को अस्मिन्त्सर्वं अदधात् प्राणदपानं चक्षुः श्रोत्रं क्षितिमथो बलम् । तमेकं देवं मनसा विविञ्च्य न द्वितीयाय तस्मै पशून् निवेदय ॥",
+          "transliteration": "Ko asmintasarvaṃ adadhāt prāṇadapānaṃ cakṣuḥ śrotraṃ kṣitimathobalam, tamekam devaṃ manasā viviñcya na dvitīyāya tasmai paśūn nivedaya",
+          "translation": "Who placed in this (body) breath, out-breath, sight, hearing, stability and strength? Discern with your mind that one god; do not offer animals to any other.",
+          "explanation": "This verse represents the monotheistic and philosophical aspects of the Atharvaveda, questioning the nature of the divine and advocating for recognition of a single supreme deity."
+        }
+      ],
+      "related_deities": ["agni", "indra", "rudra", "kala", "prithvi"],
+      "subdivisions": {
+        "samhita": "Collection of hymns, spells, and incantations",
+        "brahmana": "Gopatha Brahmana",
+        "aranyaka": "No specific Aranyaka text is preserved",
+        "upanishad": "Mundaka Upanishad, Mandukya Upanishad, and Prashna Upanishad"
+      }
+    }
+  ]
+}

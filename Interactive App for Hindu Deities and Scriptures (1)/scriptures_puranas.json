@@ -1,0 +1,202 @@
+{
+  "category": "Puranas",
+  "description": "The Puranas are a vast genre of Indian literature that include a wide range of topics, especially legends and other traditional lore. They are known for the intricate layers of symbolism depicted within their stories and are traditionally attributed to the sage Vyasa.",
+  "scriptures": [
+    {
+      "id": "puranas_overview",
+      "name": {
+        "english": "Puranas",
+        "sanskrit": "पुराण",
+        "transliteration": "Purāṇas"
+      },
+      "description": "The Puranas are a vast genre of Indian literature that include legends, mythology, genealogies of gods and kings, cosmology, philosophy, and various traditional lore. Several of these texts are named after major Hindu deities such as Vishnu, Shiva, Brahma, and Devi.",
+      "historical_context": "The first versions of various Puranas were likely composed between the 3rd and 10th century CE, though they existed in oral form before being written down. The Puranas shaped Hinduism more than the Vedas, providing a 'culture synthesis' in weaving and integrating the diverse beliefs of many local traditions.",
+      "summary": "The Puranas are encyclopedic texts that cover diverse topics such as cosmogony, cosmology, genealogies of gods, goddesses, kings, heroes, sages, folk tales, pilgrimages, temples, medicine, astronomy, grammar, mineralogy, humor, love stories, theology, and philosophy. They are traditionally attributed to the sage Vyasa but are likely the work of many authors over centuries. The content is highly inconsistent across the Puranas, and each Purana has survived in numerous manuscripts which are themselves inconsistent. There are 18 Mahapuranas (Major Puranas) and 18 Upapuranas (Minor Puranas), with over 400,000 verses in total.",
+      "structure": {
+        "parts": ["18 Mahapuranas (Major Puranas) and 18 Upapuranas (Minor Puranas)"],
+        "classification": "Often classified by the deity they primarily glorify: Vishnu (Vaishnava), Shiva (Shaiva), Brahma (Brahmanda), or Devi (Shakta)",
+        "verses": "Over 400,000 verses in total across all Puranas"
+      },
+      "key_concepts": [
+        {
+          "name": "Panchalakshana",
+          "description": "The five characteristic topics of Puranas: sarga (cosmogony/creation), pratisarga (recreation after dissolution), vamsha (genealogy of gods and sages), manvantara (cosmic cycles), and vamshanucharita (legends of kings and dynasties)."
+        },
+        {
+          "name": "Bhakti",
+          "description": "Devotion to a particular deity, which is a central theme in many Puranas."
+        },
+        {
+          "name": "Dharma",
+          "description": "Righteous conduct and moral law as described through stories and examples."
+        },
+        {
+          "name": "Cosmology",
+          "description": "Detailed descriptions of the universe, its creation, structure, and eventual dissolution."
+        }
+      ]
+    },
+    {
+      "id": "mahapuranas",
+      "name": {
+        "english": "Mahapuranas",
+        "sanskrit": "महापुराण",
+        "transliteration": "Mahāpurāṇa"
+      },
+      "description": "The Mahapuranas are the 18 major Puranic texts in Hinduism, each focusing on particular deities and aspects of Hindu mythology, philosophy, and practice.",
+      "summary": "The 18 Mahapuranas are traditionally classified into three groups of six, based on the three gunas or qualities: sattva (goodness, balance), rajas (passion, activity), and tamas (darkness, inertia). They are also sometimes categorized according to which deity they primarily glorify: Vishnu (Vaishnava), Shiva (Shaiva), Brahma (Brahmanda), or Devi (Shakta).",
+      "texts": [
+        {
+          "name": "Vishnu Purana",
+          "description": "One of the most important Mahapuranas, focusing on Vishnu and his avatars, particularly Krishna. It contains a detailed account of creation, the story of Prahlada and Narasimha, and descriptions of proper conduct."
+        },
+        {
+          "name": "Bhagavata Purana",
+          "description": "Also known as Srimad Bhagavatam, this is perhaps the most popular and influential of all the Puranas. It focuses on the glory of Bhagavan (God) and is particularly known for its detailed narration of Krishna's life and teachings."
+        },
+        {
+          "name": "Shiva Purana",
+          "description": "Glorifies Shiva as the Supreme Being and contains stories of his marriages to Sati and Parvati, the birth of Ganesha and Kartikeya, and the destruction of Tripura."
+        },
+        {
+          "name": "Brahma Purana",
+          "description": "One of the oldest Puranas, it contains geographical knowledge, temple architecture, and stories about Brahma, though it also includes many stories about Vishnu and Shiva."
+        },
+        {
+          "name": "Markandeya Purana",
+          "description": "One of the oldest Puranas, named after sage Markandeya. It contains the Devi Mahatmya, which glorifies the Goddess Durga and her victory over the demon Mahishasura."
+        },
+        {
+          "name": "Padma Purana",
+          "description": "A large Purana divided into five sections, containing diverse topics including creation, geography, astrology, and stories of various deities, particularly Vishnu."
+        },
+        {
+          "name": "Vayu Purana",
+          "description": "Contains knowledge about the air god Vayu, the creation of the universe, genealogies of gods and kings, and descriptions of cosmic cycles."
+        },
+        {
+          "name": "Agni Purana",
+          "description": "Named after Agni, the fire god, it is encyclopedic in nature, covering topics like medicine, grammar, poetics, yoga, temple building, and rituals."
+        },
+        {
+          "name": "Bhavishya Purana",
+          "description": "Deals with prophecies about the future, though much of its content relates to rituals, observances, and donations."
+        },
+        {
+          "name": "Brahma Vaivarta Purana",
+          "description": "Focuses on Krishna and Radha, describing Krishna as the Supreme Being and containing detailed accounts of creation."
+        },
+        {
+          "name": "Linga Purana",
+          "description": "Glorifies Shiva, particularly in his form as the Linga (symbolic representation), and describes the origin of the Linga and its worship."
+        },
+        {
+          "name": "Varaha Purana",
+          "description": "Named after Vishnu's Varaha (boar) avatar, it contains a dialogue between Varaha and the Earth goddess, covering topics like rituals, sacred places, and cosmology."
+        },
+        {
+          "name": "Skanda Purana",
+          "description": "The largest of all Puranas, named after Skanda (Kartikeya), son of Shiva. It contains numerous sections dealing with pilgrimages, temples, and local traditions across India."
+        },
+        {
+          "name": "Vamana Purana",
+          "description": "Named after Vishnu's Vamana (dwarf) avatar, it contains stories about this avatar and other deities, particularly Shiva."
+        },
+        {
+          "name": "Kurma Purana",
+          "description": "Named after Vishnu's Kurma (tortoise) avatar, it contains dialogues between this avatar and sages, covering topics like creation, rituals, and sacred places."
+        },
+        {
+          "name": "Matsya Purana",
+          "description": "Named after Vishnu's Matsya (fish) avatar, it contains diverse topics including creation, genealogies, manvantaras (cosmic cycles), and temple architecture."
+        },
+        {
+          "name": "Garuda Purana",
+          "description": "Named after Garuda, Vishnu's mount, it is known for its detailed descriptions of death, afterlife, and funeral rites, as well as gemology and medicine."
+        },
+        {
+          "name": "Brahmanda Purana",
+          "description": "Deals with the description of the universe (Brahmanda) and includes the Lalita Sahasranama, a text glorifying the Goddess Lalita."
+        }
+      ]
+    },
+    {
+      "id": "upapuranas",
+      "name": {
+        "english": "Upapuranas",
+        "sanskrit": "उपपुराण",
+        "transliteration": "Upapurāṇa"
+      },
+      "description": "The Upapuranas are 18 minor Puranic texts that supplement the Mahapuranas, often focusing on regional deities, specific aspects of worship, or local traditions.",
+      "summary": "The 18 Upapuranas are considered secondary to the Mahapuranas but still hold significant religious and cultural value. They often focus on regional deities, specific forms of worship, or local traditions. The list of Upapuranas varies in different sources, but they generally include texts like the Devi Bhagavata Purana (sometimes considered a Mahapurana), Kalika Purana, Saura Purana, and others.",
+      "texts": [
+        {
+          "name": "Devi Bhagavata Purana",
+          "description": "Sometimes considered a Mahapurana, it glorifies the Goddess (Devi) as the Supreme Being and contains stories of various forms of the Goddess."
+        },
+        {
+          "name": "Kalika Purana",
+          "description": "Focuses on the worship of Goddess Kali and contains details about Tantric practices and rituals."
+        },
+        {
+          "name": "Saura Purana",
+          "description": "Glorifies Surya, the sun god, and contains information about sun worship and related rituals."
+        },
+        {
+          "name": "Narasimha Purana",
+          "description": "Focuses on Vishnu's Narasimha (man-lion) avatar and contains stories related to this form."
+        },
+        {
+          "name": "Shiva Rahasya Purana",
+          "description": "Contains esoteric teachings related to Shiva and his worship."
+        },
+        {
+          "name": "Kapila Purana",
+          "description": "Named after the sage Kapila, it contains teachings related to Samkhya philosophy."
+        }
+      ]
+    },
+    {
+      "id": "sthala_puranas",
+      "name": {
+        "english": "Sthala Puranas",
+        "sanskrit": "स्थलपुराण",
+        "transliteration": "Sthalapurāṇa"
+      },
+      "description": "Sthala Puranas are texts that glorify specific sacred places (sthala) or temples, narrating their mythological origins, importance, and associated deities and rituals.",
+      "summary": "Sthala Puranas are a category of texts that focus on specific sacred places, temples, or geographical regions. They narrate the mythological origins of these places, their religious significance, the deities associated with them, and the rituals and practices to be followed there. These texts have played a crucial role in establishing and maintaining the sanctity of various pilgrimage sites across India.",
+      "examples": [
+        {
+          "name": "Tirumala Sthala Purana",
+          "description": "Describes the sacred hill of Tirumala and the temple of Lord Venkateswara (Balaji) at Tirupati."
+        },
+        {
+          "name": "Kashi Khanda",
+          "description": "Part of the Skanda Purana, it glorifies the holy city of Varanasi (Kashi) and its numerous sacred sites."
+        },
+        {
+          "name": "Mathura Mahatmya",
+          "description": "Glorifies the city of Mathura, the birthplace of Krishna, and its various sacred sites."
+        }
+      ]
+    }
+  ],
+  "cultural_significance": [
+    {
+      "aspect": "Religious Significance",
+      "description": "The Puranas have played a crucial role in popularizing Hindu mythology, rituals, and philosophical concepts among the masses. They have made complex Vedic ideas accessible through stories and examples."
+    },
+    {
+      "aspect": "Cultural Impact",
+      "description": "The Puranas have deeply influenced Indian art, literature, dance, drama, and other cultural expressions. Many festivals, rituals, and traditions are based on Puranic stories."
+    },
+    {
+      "aspect": "Historical Value",
+      "description": "Despite their mythological nature, the Puranas contain valuable historical information about ancient Indian society, politics, geography, and cultural practices."
+    },
+    {
+      "aspect": "Educational Role",
+      "description": "The Puranas have served as a means of education, transmitting knowledge about ethics, morality, dharma, and various sciences through engaging narratives."
+    }
+  ]
+}

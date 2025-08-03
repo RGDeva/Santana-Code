@@ -1,0 +1,211 @@
+{
+  "category": "Upanishads",
+  "description": "The Upanishads are among the best-known philosophical-religious works in the world and also among the oldest as the earliest texts are thought to have been composed between 800-500 BCE. These works are philosophical dialogues relating to the concepts expressed by the Vedas, the central scriptures of Hinduism. The Upanishads are referred to as Vedanta – 'the end of the Vedas' – in that they complete the sacred revelation received by the sages.",
+  "scriptures": [
+    {
+      "id": "brhadaranyaka",
+      "name": {
+        "english": "Brhadaranyaka Upanishad",
+        "sanskrit": "बृहदारण्यक उपनिषद्",
+        "transliteration": "Bṛhadāraṇyaka Upaniṣad"
+      },
+      "description": "The oldest Upanishad, embedded in the Yajur Veda. The name means 'Great Forest Teaching' and it is usually credited to the sage Yajanvalkya (8th century BCE). It begins with the creation of the universe by the god Prajapati who is later identified as an avatar of Brahman.",
+      "historical_context": "Composed between 800-500 BCE, it represents the earliest philosophical explorations of Vedic concepts and is considered one of the most important Upanishads.",
+      "summary": "The Brhadaranyaka Upanishad explores the Atman as the Higher Self, the immortality of the soul, the illusion of duality, and the essential unity of all reality. It establishes the concept of liberation from the cycle of rebirth and death and the union of the Atman with Brahman.",
+      "structure": {
+        "parts": ["Six Adhyayas (Chapters)"],
+        "chapters": "6 chapters with multiple Brahmanas (sections) in each",
+        "verses": "Numerous verses organized by section"
+      },
+      "key_concepts": [
+        {
+          "name": "Atman-Brahman",
+          "description": "The identity of the individual self (Atman) with the universal self (Brahman)."
+        },
+        {
+          "name": "Neti Neti",
+          "description": "'Not this, not this' - a method of negation to understand the nature of Brahman by eliminating what it is not."
+        },
+        {
+          "name": "Moksha",
+          "description": "Liberation from the cycle of rebirth and death through self-realization."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Brhadaranyaka Upanishad 4.12",
+          "sanskrit": "यथा सैन्धवखिल्य उदके प्रास्त उदकमेवानुविलीयेत न हास्योद्ग्रहणायेव स्यात् । यतो यतस्त्वाददीत लवणमेव । एवं वा अर इदं महद्भूतमनन्तमपारं विज्ञानघन एव ।",
+          "transliteration": "Yathā saindhavakhilya udake prāsta udakamevānuvilīyeta na hāsyodgrahaṇāyeva syāt. Yato yatastvaadadīta lavaṇameva. Evaṃ vā ara idaṃ mahadbhūtamanantamapāraṃ vijñānaghana eva.",
+          "translation": "As a lump of salt thrown in water dissolves and cannot be taken out again, though wherever we taste the water it is salty, even so, the separate self dissolves in the sea of pure consciousness, infinite and immortal. Separateness arises from identifying the Self with the body, which is made up of elements; when this physical identification dissolves, there can be no more separate self.",
+          "explanation": "This famous passage uses the analogy of salt dissolving in water to illustrate how the individual self (Atman) merges with the universal consciousness (Brahman). Just as the salt becomes one with the water while still imparting its essence throughout, the individual self merges with the divine while still maintaining its essential nature."
+        }
+      ],
+      "related_deities": ["brahma", "prajapati"],
+      "related_scriptures": ["yajurveda"]
+    },
+    {
+      "id": "chandogya",
+      "name": {
+        "english": "Chandogya Upanishad",
+        "sanskrit": "छान्दोग्य उपनिषद्",
+        "transliteration": "Chāndogya Upaniṣad"
+      },
+      "description": "Embedded in the Sama Veda and considered as old as the Brhadaranyaka. The text repeats some of the content of the Brhadaranyaka but in metrical form which gives this Upanishad its name from Chanda (poetry/meter).",
+      "historical_context": "Composed between 800-600 BCE, it is one of the oldest and most important Upanishads, particularly associated with the Sama Veda and its musical traditions.",
+      "summary": "The Chandogya Upanishad further develops the concept of Atman-Brahman, the importance of right action in accordance with one's duty, and how the Atman-Brahman connection works. It contains the famous instruction 'Tat Tvam Asi' (Thou Art That), one of the Mahavakyas or great sayings of Hindu philosophy.",
+      "structure": {
+        "parts": ["Eight Prapathakas (Books)"],
+        "chapters": "8 books with multiple Khandas (sections) in each",
+        "verses": "Numerous verses organized by section"
+      },
+      "key_concepts": [
+        {
+          "name": "Tat Tvam Asi",
+          "description": "'Thou Art That' - the fundamental identity between the individual self and the ultimate reality."
+        },
+        {
+          "name": "Udgitha",
+          "description": "The sacred syllable Om as the essence of the Sama Veda and the universe."
+        },
+        {
+          "name": "Prana",
+          "description": "The vital breath or life force that sustains existence."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Chandogya Upanishad 6.8.7",
+          "sanskrit": "स य एषोऽणिमैतदात्म्यमिदं सर्वं तत्सत्यं स आत्मा तत्त्वमसि श्वेतकेतो",
+          "transliteration": "Sa ya eṣo'ṇimaitadātmyamidam sarvaṃ tatsatyaṃ sa ātmā tattvamasi śvetaketo",
+          "translation": "That which is the subtle essence, this whole world has that as its Self. That is Reality. That is the Self. Thou art That, Svetaketu.",
+          "explanation": "This is the famous 'Tat Tvam Asi' (Thou Art That) passage from the story of Svetaketu and his father Uddalaka. It expresses the fundamental identity between the individual self (Atman) and the ultimate reality (Brahman), suggesting that the essence of the universe is also the essence of the individual."
+        }
+      ],
+      "related_deities": ["brahma", "indra", "prajapati"],
+      "related_scriptures": ["samaveda"]
+    },
+    {
+      "id": "katha",
+      "name": {
+        "english": "Katha Upanishad",
+        "sanskrit": "कठ उपनिषद्",
+        "transliteration": "Kaṭha Upaniṣad"
+      },
+      "description": "The Katha Upanishad is embedded in the Krishna Yajur Veda and takes the form of a dialogue between a young boy named Nachiketa and Yama, the god of death.",
+      "historical_context": "Composed after 500 BCE, this Upanishad is known for its poetic beauty and profound philosophical insights presented through the narrative of a boy's encounter with death.",
+      "summary": "The Katha Upanishad tells the story of Nachiketa, who is sent to the realm of Death (Yama) by his father. When Nachiketa meets Yama, he asks for three boons. The third boon is the knowledge of what happens after death. Initially reluctant, Yama eventually teaches Nachiketa about the nature of the self, the difference between the pleasant and the good, and the path to immortality through self-knowledge.",
+      "structure": {
+        "parts": ["Two Adhyayas (Chapters) with three Vallis (sections) each"],
+        "chapters": "2 chapters with 6 sections total",
+        "verses": "Approximately 120 verses"
+      },
+      "key_concepts": [
+        {
+          "name": "Shreyas and Preyas",
+          "description": "The distinction between what is truly good (shreyas) and what is merely pleasant (preyas)."
+        },
+        {
+          "name": "Atman",
+          "description": "The eternal self that transcends death."
+        },
+        {
+          "name": "Yoga",
+          "description": "The discipline of controlling the mind and senses to realize the self."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Katha Upanishad 1.3.14",
+          "sanskrit": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत । क्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ॥",
+          "transliteration": "Uttiṣṭhata jāgrata prāpya varānnibodhata. Kṣurasya dhārā niśitā duratyayā durgaṃ pathastatkavayo vadanti.",
+          "translation": "Arise, awake, and learn by approaching the excellent ones. The wise describe the path as difficult to traverse, as sharp as a razor's edge.",
+          "explanation": "This famous verse urges spiritual seekers to wake up from ignorance, seek knowledge from enlightened teachers, and recognize that the spiritual path is challenging but necessary. The metaphor of the razor's edge illustrates how the path of self-realization requires careful attention and discipline."
+        }
+      ],
+      "related_deities": ["yama"],
+      "related_scriptures": ["yajurveda"]
+    },
+    {
+      "id": "isha",
+      "name": {
+        "english": "Isha Upanishad",
+        "sanskrit": "ईश उपनिषद्",
+        "transliteration": "Īśa Upaniṣad"
+      },
+      "description": "The Isha Upanishad is the shortest of all the Upanishads, consisting of only 18 verses. It is embedded in the Shukla Yajur Veda and derives its name from the opening word 'Isha' meaning 'by the Lord'.",
+      "historical_context": "Composed after 500 BCE, this concise Upanishad is notable for its synthesis of knowledge and action, suggesting that spiritual wisdom and worldly engagement are not contradictory.",
+      "summary": "The Isha Upanishad teaches that everything in the universe is pervaded by the Lord (Isha). It reconciles the paths of knowledge and action, suggesting that one should live a full life of a hundred years while remaining detached from worldly possessions. It emphasizes the unity of all existence and the importance of seeing the divine in everything.",
+      "structure": {
+        "parts": ["Single chapter with 18 verses"],
+        "chapters": "1",
+        "verses": "18"
+      },
+      "key_concepts": [
+        {
+          "name": "Renunciation",
+          "description": "The concept of living in the world while remaining detached from possessions."
+        },
+        {
+          "name": "Vidya and Avidya",
+          "description": "The balance between spiritual knowledge (vidya) and worldly knowledge (avidya)."
+        },
+        {
+          "name": "Unity of Existence",
+          "description": "The understanding that all beings are united in the divine."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Isha Upanishad 1",
+          "sanskrit": "ईशा वास्यमिदं सर्वं यत्किञ्च जगत्यां जगत् । तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥",
+          "transliteration": "Īśā vāsyamidaṃ sarvaṃ yatkiñca jagatyāṃ jagat. Tena tyaktena bhuñjīthā mā gṛdhaḥ kasyasviddhanam.",
+          "translation": "All this, whatever exists in this changing universe, should be covered by the Lord. Protect yourself through that detachment. Do not covet anybody's wealth.",
+          "explanation": "This opening verse establishes the central teaching that the divine pervades everything in the universe. It advises living with detachment and without greed, recognizing that all possessions ultimately belong to the divine."
+        }
+      ],
+      "related_deities": ["brahman"],
+      "related_scriptures": ["yajurveda"]
+    },
+    {
+      "id": "mundaka",
+      "name": {
+        "english": "Mundaka Upanishad",
+        "sanskrit": "मुण्डक उपनिषद्",
+        "transliteration": "Muṇḍaka Upaniṣad"
+      },
+      "description": "The Mundaka Upanishad is embedded in the Atharva Veda. The name 'Mundaka' means 'shaved' or 'shorn', suggesting the shaving of ignorance or the state of renunciation required for spiritual knowledge.",
+      "historical_context": "Composed after 500 BCE, this Upanishad is particularly important for its clear distinction between higher and lower knowledge and its vivid metaphors.",
+      "summary": "The Mundaka Upanishad distinguishes between two kinds of knowledge: the lower knowledge of the Vedas and rituals, and the higher knowledge that leads to self-realization. It uses the metaphor of two birds on a tree to represent the individual self and the universal self. It also contains the famous metaphor of the arrow and the target to describe the process of meditation.",
+      "structure": {
+        "parts": ["Three Mundakas (Sections) with two Khandas (chapters) each"],
+        "chapters": "6 chapters organized in 3 sections",
+        "verses": "64 verses"
+      },
+      "key_concepts": [
+        {
+          "name": "Para and Apara Vidya",
+          "description": "The distinction between higher knowledge (para vidya) that leads to self-realization and lower knowledge (apara vidya) of rituals and texts."
+        },
+        {
+          "name": "Two Birds",
+          "description": "The metaphor of two birds on a tree representing the individual self and the universal self."
+        },
+        {
+          "name": "Brahman as the Target",
+          "description": "The metaphor of archery to describe meditation, with Brahman as the target and Om as the arrow."
+        }
+      ],
+      "key_verses": [
+        {
+          "reference": "Mundaka Upanishad 3.1.1",
+          "sanskrit": "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते । तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ॥",
+          "transliteration": "Dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte. Tayoranyaḥ pippalaṃ svādvattyanaśnannanyo abhicākaśīti.",
+          "translation": "Two birds, inseparable companions, perch on the same tree. One eats the sweet fruit, the other looks on without eating.",
+          "explanation": "This verse presents the famous metaphor of two birds on the same tree. One bird represents the individual self that experiences pleasure and pain, while the other represents the universal self that observes without attachment. This illustrates the relationship between the individual soul (jiva) and the supreme soul (Brahman)."
+        }
+      ],
+      "related_deities": ["brahman"],
+      "related_scriptures": ["atharvaveda"]
+    }
+  ]
+}
